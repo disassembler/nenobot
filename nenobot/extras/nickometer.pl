@@ -6,7 +6,7 @@
 #
 # You may do whatever you want with this code, but give me credit.
 #
-# $Id: nickometer.pl,v 1.1 2003/01/23 01:19:54 nenolod Exp $
+# $Id: nickometer.pl,v 1.1.1.2 2003/02/28 03:50:35 disasm_ Exp $
 #
 
 use strict;
@@ -15,7 +15,7 @@ use Math::Trig;
 
 use vars qw($VERSION $score $verbose);
 
-$VERSION = '$Revision: 1.1 $';	# '
+$VERSION = '$Revision: 1.1.1.2 $';	# '
 $VERSION =~ s/^.*?([\d.]+).*?$/$1/;
 
 sub nickometer ($) {

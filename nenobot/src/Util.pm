@@ -1,4 +1,4 @@
-# $Id: Util.pm,v 1.1 2003/01/23 01:20:33 nenolod Exp $
+# $Id: Util.pm,v 1.1.1.2 2003/02/28 03:50:46 disasm_ Exp $
 
 use strict;
 
@@ -27,7 +27,7 @@ use Exporter		();
 
 use vars qw($VERSION @ISA @EXPORT_OK);
 
-$VERSION  = do{my@r=q$Revision: 1.1 $=~/\d+/g;sprintf '%d.'.'%03d'x$#r,@r};
+$VERSION  = do{my@r=q$Revision: 1.1.1.2 $=~/\d+/g;sprintf '%d.'.'%03d'x$#r,@r};
 
 @ISA		= qw(Exporter);
 @EXPORT_OK	= qw(

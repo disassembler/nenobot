@@ -1,7 +1,7 @@
 #!/usr/bin/perl -w
 use strict;
 
-# $Id: flock-test,v 1.1 2003/01/23 01:19:54 nenolod Exp $
+# $Id: flock-test,v 1.1.1.2 2003/02/28 03:50:37 disasm_ Exp $
 
 #use sigtrap qw(die normal-signals);
 

@@ -1,0 +1,21 @@
+0.7   : Fixed the weather module some more.
+	Better parsing for the trigger function. (nenobot-0.7p3)
+	Replies and factoids will be parsed for tokens by 0.7.1, actions
+	already are.
+
+0.7p10: New connection code, using IO::Socket.
+	Added a fortune command.
+
+0.7p9: Removed almost all the CTCP replies.
+       For actions: Replaced all strings with tokens.
+       For text: You need to keep using the string identifiers.
+
+0.7p8: New look! Most things look more modern. Hehe.
+       Factoid system looks more like any other bot, instead of infobot style.
+       Karma fixes.
+       Weather fixes.
+       Added a LartCounter(tm)
+
+0.7p7: Fixed the weather plugin.
+       Started to work on new config format, abandoned it.
+

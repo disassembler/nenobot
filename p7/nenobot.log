@@ -1,0 +1,1038 @@
+1056427085 [1] loaded param file ./conf/nenobot.config (54 items)
+1056427085 [2] Loaded help file nenobot.help
+1056427085 [3] created new db is -> ./nenobot-is
+1056427085 [4] FAILED to load conf/infobot-is.txt into is
+1056427085 [5] created new db are -> ./nenobot-are
+1056427085 [6] FAILED to load conf/infobot-are.txt into are
+1056427085 [7] created new db ignore -> ./nenobot-ignore
+1056427085 [8] FAILED to load conf/infobot-ignore.txt into ignore
+1056427085 [9] loading sane defines conf/sane-is.txt
+1056427085 [10] loaded conf/sane-is.txt into is (8/8 good items)
+1056427085 [11] loading sane defines conf/sane-are.txt
+1056427085 [12] loaded conf/sane-are.txt into are (6/6 good items)
+1056427085 [13] Adding *cthulhu!hastur@*unspeakable.net to ignore list (from sane).
+1056427085 [14] Adding *!*@*nan*direct.ca to ignore list (from sane).
+1056427085 [15] Adding *!*@200.38.211.* to ignore list (from sane).
+1056427085 [16] created new db plusplus -> ./nenobot-karma
+1056427085 [17] FAILED to load conf/infobot-plusplus.txt into plusplus
+1056427085 [18] created new db seen -> ./nenobot-seen
+1056427085 [19] FAILED to load conf/infobot-seen.txt into seen
+1056427085 [20] Parsing User File
+1056427085 [21] Parsing Channel File
+1056427085 [22] setup: 14 factoids; 8 IS; 6 ARE
+1056427085 [23] Connecting to port 6667 of server irc.mircx.com (216.194.70.8)...
+1056427086 [24]  connected.
+1056427086 [25] UNKNOWN :irc.mircx.com NOTICE AUTH :*** Looking up your hostname...
+1056427086 [26] UNKNOWN :irc.mircx.com NOTICE AUTH :*** Checking Ident
+1056427086 [27] UNKNOWN :irc.mircx.com NOTICE AUTH :*** No Ident response
+1056427086 [28] UNKNOWN :irc.mircx.com NOTICE AUTH :*** Found your hostname
+1056427086 [29] joined #videogames
+1056427086 [30] joined #ubertech
+1056427086 [31] Your host is irc.mircx.com[@0.0.0.0], running version bahamut-1.4(35)
+1056427086 [32] This server was created Sun May 11 2003 at 21:02:03 MDT
+1056427086 [33] There are 62 users and 10966 invisible on 6 servers
+1056427086 [34] I have 10898 clients and 3 servers
+1056427086 [35] Current local users: 10898 Max: 11655
+1056427086 [36] Current global users: 11028 Max: 11778
+1056427086 [37] -[irc.mircx.com]- *** Notice -- motd was last changed at 31/12/1969 17:00
+1056427086 [38] -[irc.mircx.com]- *** Notice -- Please read the motd if you haven't read it
+1056427086 [39] - irc.mircx.com Message of the Day - 
+1056427086 [40] - *** This is the short motd ***
+1056427086 [41] End of /MOTD command.
+1056427087 [42] >>> nenobot sets mode: +i
+1056427087 [43] -Bot(bot@bot.mircx.com)- For security reasons, all connections to this network are subject to a proxy scan.  If your firewall reports a connection attempt from 216.194.70.12, please disregard it as it is the proxy scan in action and not a hack attempt or attack.
+1056427087 [44] -Bot(bot@bot.mircx.com)- Don't forget to register your nickname!  Visit http://www.mircx.com/register.html for more information.  Visit http://chat.cjb.net/ to create a free web based Java chat for your channel.  For assistance with this IRC network, contact CJB or e-mail ircadmin@mircx.com.
+1056427087 [45] >>> nenobot (~nenobot@fleenode.net) has joined #videogames
+1056427087 [46] >>> topic for [1m#videogames[0m: 9,0/0,9\3,9/9,3\1,3/3,1\9,1 0 VideoGames <> Welcome to the ultimate center point for all video game fans. We mean ALL video game fans! || Congrats to ViewtifulJosh for winning the most recent official Charactria game! Next Game's theme: Fighting Games (ALL platforms) || Puff Radio is streaming every Friday @ 8-12 PM. Listen at http://66.143.220.37:8000/
+1056427087 [47] >>> set by [1mPuffball[0m at [1m1056417043[0m
+1056427087 [48] NAMES #VideoGames: nenobot +PenguinOnIce @uberq^3 +Keeshi +jarrett4 +DJ +OutlawStarwind @OP-Away +Elzie_Ann +DK745 +TheHumanCow @Puff[Away] +SS4-Away +SideLabel +Xergiez +Jerado +ksh[a] @nenolod +Puffball_ 
+1056427087 [49] End of /NAMES list.
+1056427087 [50] >>> mode/[1m#VideoGames[0m [[1m+v nenobot[0m] by [1mChanServ[0m
+1056427087 [51] >>> nenobot (~nenobot@fleenode.net) has joined #ubertech
+1056427087 [52] >>> topic for [1m#ubertech[0m: . o Ubertech - http://nenolod.freezope.org/ubertech/ o .
+1056427087 [53] >>> set by [1mnenolod[0m at [1m1056426711[0m
+1056427087 [54] NAMES #ubertech: nenobot @uberq^3 @nenolod 
+1056427087 [55] End of /NAMES list.
+1056427087 [56] -Puff[Away](Jason@ppp-66-143-220-37.dsl.spfdmo.swbell.net)- ** WELCOME TO #VIDEOGAMES, nenobot! **
+1056427087 [57] -Puff[Away](Jason@ppp-66-143-220-37.dsl.spfdmo.swbell.net)- Charactria every Friday night @ 7 PM Central. Type !Charactria for the instructions on how to play, rules, and more info. Type !scores to get the Charactria Scores Archive.
+1056427087 [58] -Puff[Away](Jason@ppp-66-143-220-37.dsl.spfdmo.swbell.net)- Puff Radio ( 66.143.220.37 ) is streaming.
+1056427118 [59] >>> [1;32muberq^3[0m materializes into [1;32muberq^brb[0m
+1056427123 [60] nenolod is addressing me
+1056427123 [61] notfound: <nenolod> farva :: farva
+1056427123 [62] Question: <nenolod>  farva?
+1056427123 [63] </#videogames> nenolod: i don't know
+1056427123 [64] <nenolod/#videogames> nenobot, farva?
+1056427125 [65] >>> [1;32mTheHumanCow[0m materializes into [1;32mTHC{sleep}[0m
+1056427145 [66] >>> [1muberq^brb[0m has signed off IRC ([1mQuit: take care now, bye bye then[0m)
+1056427208 [67] Karma string is currently 'nenolod'
+1056427208 [68] Extras: <nenolod>  karma nenolod
+1056427208 [69] </#videogames> nenolod has neutral karma
+1056427208 [70] <nenolod/#videogames> karma nenolod
+1056427245 [71] >>> uberq^3 (~megaforce@12.162.182.119) has joined #videogames
+1056427245 [72] >>> mode/[1m#VideoGames[0m [[1m+v uberq^3[0m] by [1mChanServ[0m
+1056427246 [73] >>> mode/[1m#VideoGames[0m [[1m+o uberq^3[0m] by [1mnenolod[0m
+1056427258 [74] <nenolod/#videogames> uberq^3++
+1056427261 [75] Karma string is currently 'uberq^3 '
+1056427261 [76] Extras: <nenolod>  karma uberq^3 
+1056427261 [77] </#videogames> uberq^3  has neutral karma
+1056427261 [78] <nenolod/#videogames> karma uberq^3 
+1056427264 [79] closed db seen
+1056427264 [80] created new db seen -> ./nenobot-seen
+1056427264 [81] FAILED to load conf/infobot-seen.txt into seen
+1056427264 [82] Karma string is currently 'uberq^3'
+1056427264 [83] Extras: <nenolod>  karma uberq^3
+1056427264 [84] </#videogames> uberq^3 has karma of 1
+1056427264 [85] <nenolod/#videogames> karma uberq^3
+1056427276 [86] <nenolod/#videogames> uberq^3--
+1056427281 [87] Karma string is currently 'uberq^3'
+1056427281 [88] Extras: <nenolod>  karma uberq^3
+1056427281 [89] </#videogames> uberq^3 has neutral karma
+1056427281 [90] <nenolod/#videogames> karma uberq^3
+1056427286 [91] <nenolod/#videogames> ok
+1056427298 [92] <uberq^3/#videogames> nenolod-+
+1056427301 [93] closed db seen
+1056427301 [94] opened seen -> ./nenobot-seen
+1056427301 [95] <uberq^3/#videogames> haha
+1056427307 [96] Karma string is currently 'nenolod'
+1056427307 [97] Extras: <nenolod>  karma nenolod
+1056427307 [98] </#videogames> nenolod has neutral karma
+1056427307 [99] <nenolod/#videogames> karma nenolod
+1056427411 [100] >>> [1;32mksh[a][0m materializes into [1;32mksh[0m
+1056427422 [101] <OutlawStarwind/#videogames> Why'd you spork me? :P
+1056427495 [102] <nenolod/#videogames> ksh: can i have jenni's source code?
+1056427507 [103] <ksh/#videogames> nenolod: sure
+1056427514 [104] closed db seen
+1056427514 [105] opened seen -> ./nenobot-seen
+1056427514 [106] statement: <ksh> my changes to the source code are gone
+1056427514 [107] enter: <ksh> ksh's changes to the source code =are=> gone
+1056427514 [108] <ksh/#videogames> my changes to the source code are gone
+1056427518 [109] <nenolod/#videogames> oh well
+1056427518 [110] <uberq^3/#videogames> heh heh heh
+1056427525 [111] <uberq^3/#videogames> so many jokes sprouting
+1056427527 [112] type http: http://www.bolt.cx/jenni/src
+1056427527 [113] <ksh/#videogames> http://www.bolt.cx/jenni/src
+1056427558 [114] closed db seen
+1056427558 [115] opened seen -> ./nenobot-seen
+1056427558 [116] <ksh/#videogames> i had added quite a few modules and rewritten a lot of his source code
+1056427567 [117] <ksh/#videogames> he said he might include some of my changes but blah
+1056427568 [118] statement: <nenolod> notes that nenobot is a completely modified infobot written by me, disasm and a few others, with some contributions even coming from uberq^3. :P
+1056427568 [119] enter: <nenolod> notes that nenobot =is=> a completely modified infobot written by me, disasm and a few others, with some contributions even coming from uberq^3. :P
+1056427568 [120] <nenolod/#videogames> notes that nenobot is a completely modified infobot written by me, disasm and a few others, with some contributions even coming from uberq^3. :P
+1056427568 [121] <uberq^3/#videogames> HAHAHA
+1056427597 [122] type http: http://www.bolt.cx/jenni/source/
+1056427597 [123] <ksh/#videogames> http://www.bolt.cx/jenni/source/
+1056427696 [124] closed db seen
+1056427696 [125] opened seen -> ./nenobot-seen
+1056427696 [126] <nenolod/#videogames> so jenni's weather module uses Geo::Weather
+1056427697 [127] <nenolod/#videogames> got it\
+1056427777 [128] <uberq^3/#videogames> The New TNN RULES
+1056427790 [129] <uberq^3/#videogames> theyve got everything you could ever need
+1056427797 [130] <uberq^3/#videogames> and a hot plate
+1056427827 [131] closed db seen
+1056427827 [132] opened seen -> ./nenobot-seen
+1056427827 [133] >nenolod< Try a 4-letter station code (see http://weather.noaa.gov/weather/curcond.html for locations and codes)
+1056427827 [134] <nenolod/#videogames> weather 74120
+1056427864 [135] <uberq^3/#videogames> you at your grandparents?
+1056427916 [136] >nenolod< 0
+1056427916 [137] <nenolod/#videogames> weather kinx
+1056427918 [138] <nenolod/#videogames> yeah
+1056427919 [139] <ksh/#videogames> nenolod: last time i messed with the sources, the module need some serious rewritting for it's parsing
+1056427930 [140] closed db seen
+1056427930 [141] opened seen -> ./nenobot-seen
+1056427930 [142] <ksh/#videogames> noah changed the way it formatted it's data
+1056427936 [143] <nenolod/#videogames> noaa you mean.
+1056427942 [144] <ksh/#videogames> yeah
+1056427942 [145] <nenolod/#videogames> yeah
+1056427944 [146] <ksh/#videogames> fuck off
+1056427946 [147] closed db seen
+1056427946 [148] opened seen -> ./nenobot-seen
+1056427946 [149] <ksh/#videogames> :p
+1056427948 [150] <nenolod/#videogames> Geo::Weather.
+1056428066 [151] >>> uberqlone (~uberqlone@12.162.182.119) has joined #videogames
+1056428067 [152] >>> mode/[1m#VideoGames[0m [[1m+v uberqlone[0m] by [1mChanServ[0m
+1056428139 [153] >>> kypster (XZed220@CPE0001022d36d2-CM400049316930.cpe.net.cable.rogers.com) has joined #VideoGames
+1056428139 [154] >>> mode/[1m#VideoGames[0m [[1m+v kypster[0m] by [1mChanServ[0m
+1056428145 [155] <kypster/#videogames> !list
+1056428145 [156] >>> [1mkypster[0m was kicked off [1m#VideoGames[0m by [1mPuff[Away][0m ([1mHasta la vista, baby![0m)
+1056428392 [157] <nenolod/#videogames> hates those bastards who like to do the !list thing
+1056428405 [158] <uberq^3/#videogames> haha
+1056428411 [159] >>> thedemek1 (~demorokk@adsl-211-228-64.mia.bellsouth.net) has joined #VideoGames
+1056428412 [160] >>> mode/[1m#VideoGames[0m [[1m+v thedemek1[0m] by [1mChanServ[0m
+1056428427 [161] <thedemek1/#videogames> !lsit
+1056428429 [162] <thedemek1/#videogames> !list
+1056428429 [163] >>> [1mthedemek1[0m was kicked off [1m#VideoGames[0m by [1mPuff[Away][0m ([1mHasta la vista, baby![0m)
+1056428430 [164] >>> thedemek1 (~demorokk@adsl-211-228-64.mia.bellsouth.net) has joined #VideoGames
+1056428430 [165] >>> mode/[1m#VideoGames[0m [[1m+v thedemek1[0m] by [1mChanServ[0m
+1056428437 [166] <uberq^3/#videogames> nenolod look at adlms dealy
+1056428441 [167] <thedemek1/#videogames> !list
+1056428441 [168] >>> [1mthedemek1[0m was kicked off [1m#VideoGames[0m by [1mPuff[Away][0m ([1mHasta la vista, baby![0m)
+1056428442 [169] >>> thedemek1 (~demorokk@adsl-211-228-64.mia.bellsouth.net) has joined #VideoGames
+1056428442 [170] >>> mode/[1m#VideoGames[0m [[1m+v thedemek1[0m] by [1mChanServ[0m
+1056428478 [171] >>> thedemek1 (~demorokk@adsl-211-228-64.mia.bellsouth.net) has left #VideoGames
+1056428865 [172] closed db seen
+1056428865 [173] opened seen -> ./nenobot-seen
+1056428865 [174] <uberqlone/#videogames> is listening to Ramones - I Wanna Be Sedated @ 128kbps - 34s of 2m29s (730/733)
+1056429344 [175] >>> [1mOP-Away[0m has signed off IRC ([1mWrite Error: Broken pipe[0m)
+1056429409 [176] QUIT nenobot has quit IRC (Nenobot 0.6 (http://nenobot.sourceforge.net/))
+1056429409 [177] closed db seen
+1056429409 [178] closed db ignore
+1056429409 [179] closed db is
+1056429409 [180] closed db are
+1056429409 [181] closed db plusplus
+1056429414 [1] loaded param file ./conf/nenobot.config (54 items)
+1056429415 [2] Loaded help file nenobot.help
+1056429415 [3] opened is -> ./nenobot-is
+1056429415 [4] opened are -> ./nenobot-are
+1056429415 [5] opened ignore -> ./nenobot-ignore
+1056429415 [6] loading sane defines conf/sane-is.txt
+1056429415 [7] loaded conf/sane-is.txt into is (8/8 good items)
+1056429415 [8] loading sane defines conf/sane-are.txt
+1056429415 [9] loaded conf/sane-are.txt into are (6/6 good items)
+1056429415 [10] Adding *cthulhu!hastur@*unspeakable.net to ignore list (from sane).
+1056429415 [11] Adding *!*@*nan*direct.ca to ignore list (from sane).
+1056429415 [12] Adding *!*@200.38.211.* to ignore list (from sane).
+1056429415 [13] opened plusplus -> ./nenobot-karma
+1056429415 [14] opened seen -> ./nenobot-seen
+1056429415 [15] Parsing User File
+1056429415 [16] Parsing Channel File
+1056429415 [17] setup: 16 factoids; 9 IS; 7 ARE
+1056429415 [18] Connecting to port 6667 of server irc.mircx.com (216.194.70.11)...
+1056429416 [19]  connected.
+1056429416 [20] UNKNOWN :irc.mircx.com NOTICE AUTH :*** Looking up your hostname...
+1056429416 [21] UNKNOWN :irc.mircx.com NOTICE AUTH :*** Checking Ident
+1056429416 [22] UNKNOWN :irc.mircx.com NOTICE AUTH :*** No Ident response
+1056429416 [23] UNKNOWN :irc.mircx.com NOTICE AUTH :*** Found your hostname
+1056429416 [24] joined #videogames
+1056429416 [25] joined #ubertech
+1056429416 [26] Your host is irc.mircx.com[@0.0.0.0], running version bahamut-1.4(35)
+1056429416 [27] This server was created Sun May 11 2003 at 21:02:03 MDT
+1056429416 [28] There are 61 users and 10779 invisible on 6 servers
+1056429417 [29] I have 10713 clients and 3 servers
+1056429417 [30] Current local users: 10713 Max: 11655
+1056429417 [31] Current global users: 10840 Max: 11778
+1056429417 [32] -[irc.mircx.com]- *** Notice -- motd was last changed at 31/12/1969 17:00
+1056429417 [33] -[irc.mircx.com]- *** Notice -- Please read the motd if you haven't read it
+1056429417 [34] - irc.mircx.com Message of the Day - 
+1056429417 [35] - *** This is the short motd ***
+1056429417 [36] End of /MOTD command.
+1056429417 [37] >>> nenobot sets mode: +i
+1056429417 [38] -Bot(bot@bot.mircx.com)- For security reasons, all connections to this network are subject to a proxy scan.  If your firewall reports a connection attempt from 216.194.70.12, please disregard it as it is the proxy scan in action and not a hack attempt or attack.
+1056429417 [39] -Bot(bot@bot.mircx.com)- Don't forget to register your nickname!  Visit http://www.mircx.com/register.html for more information.  Visit http://chat.cjb.net/ to create a free web based Java chat for your channel.  For assistance with this IRC network, contact CJB or e-mail ircadmin@mircx.com.
+1056429417 [40] >>> nenobot (~nenobot@fleenode.net) has joined #videogames
+1056429417 [41] >>> topic for [1m#videogames[0m: 9,0/0,9\3,9/9,3\1,3/3,1\9,1 0 VideoGames <> Welcome to the ultimate center point for all video game fans. We mean ALL video game fans! || Congrats to ViewtifulJosh for winning the most recent official Charactria game! Next Game's theme: Fighting Games (ALL platforms) || Puff Radio is streaming every Friday @ 8-12 PM. Listen at http://66.143.220.37:8000/
+1056429417 [42] >>> set by [1mPuffball[0m at [1m1056417043[0m
+1056429417 [43] NAMES #VideoGames: nenobot +uberqlone @uberq^3 +PenguinOnIce +Keeshi +jarrett4 +DJ +OutlawStarwind +Elzie_Ann +DK745 +THC{sleep} @Puff[Away] +SS4-Away +SideLabel +Xergiez +Jerado +ksh @nenolod +Puffball_ 
+1056429417 [44] End of /NAMES list.
+1056429417 [45] >>> mode/[1m#VideoGames[0m [[1m+v nenobot[0m] by [1mChanServ[0m
+1056429417 [46] >>> nenobot (~nenobot@fleenode.net) has joined #ubertech
+1056429417 [47] >>> topic for [1m#ubertech[0m: . o Ubertech - http://nenolod.freezope.org/ubertech/ o .
+1056429417 [48] >>> set by [1mnenolod[0m at [1m1056426711[0m
+1056429417 [49] NAMES #ubertech: nenobot @nenolod 
+1056429417 [50] End of /NAMES list.
+1056429417 [51] -Puff[Away](Jason@ppp-66-143-220-37.dsl.spfdmo.swbell.net)- ** WELCOME TO #VIDEOGAMES, nenobot! **
+1056429417 [52] -Puff[Away](Jason@ppp-66-143-220-37.dsl.spfdmo.swbell.net)- Charactria every Friday night @ 7 PM Central. Type !Charactria for the instructions on how to play, rules, and more info. Type !scores to get the Charactria Scores Archive.
+1056429417 [53] -Puff[Away](Jason@ppp-66-143-220-37.dsl.spfdmo.swbell.net)- Puff Radio ( 66.143.220.37 ) is streaming.
+1056429543 [54] >>> nenoclone (nenolod@42.dallas-26rh15rt-tx.dial-access.att.net) has joined #videogames
+1056429544 [55] >>> mode/[1m#VideoGames[0m [[1m+v nenoclone[0m] by [1mChanServ[0m
+1056429548 [56] <nenoclone/#videogames> ok let's go bitch!
+1056429549 [57] <nenoclone/#videogames> :P
+1056429558 [58] <uberqlone/#videogames> cries
+1056429567 [59] <nenoclone/#videogames> os[Windows 2000 Professional, Service Pack 3 (5.0 - 2195)] uptime[5d 6h 25m 43s] cpu[1-AMD XP, 1393MHz, 256KB (0% Load)] mem[Usage: 219/512MB (42.77%)[||||||||||||------------------]] network[#1 (SiS NIC SISNIC (10Mb/s) 0.00MB In, 0.00MB Out) #2(WAN (PPP/SLIP) Interface (115Kb/s) 5.21MB In, 1.07MB Out)] graphics[RADEON 7000 SERIES 1024x768 16bit 85Hz] dialup[AT&T Worldnet via Standard 56000 bps V90 
+1056429576 [60] closed db seen
+1056429576 [61] opened seen -> ./nenobot-seen
+1056429576 [62] <uberq^3/#videogames> i want that one
+1056429580 [63] <uberq^3/#videogames> give me that one
+1056429592 [64] <nenoclone/#videogames> it's a ViRC script dude
+1056429599 [65] <uberq^3/#videogames> well thats lame then
+1056429601 [66] <uberq^3/#videogames> ultra lame
+1056429604 [67] closed db seen
+1056429604 [68] opened seen -> ./nenobot-seen
+1056429604 [69] <uberq^3/#videogames> uber lame
+1056429609 [70] <nenoclone/#videogames> it uses a dll though
+1056429614 [71] <nenoclone/#videogames> you could write an mirc script with it
+1056429621 [72] forking off: search for simplemoo
+1056429621 [73] child exit: search for simplemoo
+1056429621 [73] <nenoclone/#videogames> search for simplemoo
+1056429622 [74] <uberq^3/#videogames> thats work
+1056429629 [75] closed db seen
+1056429629 [76] opened seen -> ./nenobot-seen
+1056429629 [77] W3Search: this requires WWW::Search::Google to operate.
+1056429629 [78] <nenoclone/#videogames> google for simplemoo
+1056429635 [79] <uberq^3/#videogames> ok
+1056429638 [80] statement: <nenoclone> my script is a port of simplemoo to ViRC.
+1056429638 [81] enter: <nenoclone> nenoclone's script =is=> a port of simplemoo to ViRC.
+1056429638 [82] <nenoclone/#videogames> my script is a port of simplemoo to ViRC.
+1056429711 [83] <uberq^3/#videogames> dead links/sites
+1056429717 [84] <uberq^3/#videogames> no simplemoo to be found
+1056429793 [85] closed db seen
+1056429793 [86] opened seen -> ./nenobot-seen
+1056429793 [87] <SideLabel/#videogames> is back after 10h 4m 49s
+1056429815 [88] <SideLabel/#videogames> wazza peeps
+1056429825 [89] type http: http://www.influenced.net/moodll.php
+1056429825 [90] <nenolod/#videogames> http://www.influenced.net/moodll.php
+1056429832 [91] <nenolod/#videogames> that comes with a script, IIRC.
+1056429871 [92] <SideLabel/#videogames> hey neno..ops?
+1056429872 [93] closed db seen
+1056429872 [94] opened seen -> ./nenobot-seen
+1056429872 [95] <nenolod/#videogames> hmm
+1056429873 [96] <SideLabel/#videogames> ;)
+1056429876 [97] <nenolod/#videogames> no
+1056429879 [98] <SideLabel/#videogames> :(
+1056429887 [99] <SideLabel/#videogames> aha
+1056429891 [100] closed db seen
+1056429891 [101] opened seen -> ./nenobot-seen
+1056429891 [102] <nenolod/#videogames> i'll send you moo.dll
+1056429891 [103] <SideLabel/#videogames> I shall get it someday
+1056429913 [104] <uberq^3/#videogames> ill give you props for being persistent
+1056429930 [105] <SideLabel/#videogames> well determination pays yanno.
+1056429962 [106] <nenolod/#videogames> i'll send you my script for it
+1056429964 [107] closed db seen
+1056429964 [108] opened seen -> ./nenobot-seen
+1056429964 [109] <uberq^3/#videogames> ok
+1056429970 [110] <nenolod/#videogames> so that you can learn how to use it
+1056429976 [111] <uberq^3/#videogames> thanks
+1056430017 [112] closed db plusplus
+1056430017 [113] opened plusplus -> ./nenobot-karma
+1056430017 [114] <nenoclone/#videogames> os[Windows 2000 Professional, Service Pack 3 (5.0 - 2195)] uptime[5d 6h 33m 14s] cpu[1-AMD XP, 1393MHz, 256KB (9% Load)] mem[Usage: 217/512MB (42.38%)[||||||||||||------------------]] network[#1 (SiS NIC SISNIC (10Mb/s) 0.00MB In, 0.00MB Out) #2(WAN (PPP/SLIP) Interface (115Kb/s) 5.38MB In, 1.23MB Out)] graphics[RADEON 7000 SERIES 1024x768 16bit 85Hz] dialup[AT&T Worldnet via Standard 56000 bps V90 
+1056430020 [115] <nenoclone/#videogames> what's up peeps
+1056430026 [116] closed db seen
+1056430026 [117] opened seen -> ./nenobot-seen
+1056430026 [118] <nenoclone/#videogames> does your box rox0r as much as mine?
+1056430027 [119] <nenoclone/#videogames> :)
+1056430060 [120] <nenoclone/#videogames> lets see what other goodies i've got
+1056430080 [121] <nenoclone/#videogames> [Kamaya Painters - Far From Over]-[0:02 - 5:53]-[44 kHz - 128 kbps - stereo]
+1056430082 [122] <nenoclone/#videogames> oh that
+1056430086 [123] closed db seen
+1056430086 [124] opened seen -> ./nenobot-seen
+1056430086 [125] <nenoclone/#videogames> and uh
+1056430090 [126] <nenoclone/#videogames> os[Windows 2000 Professional, Service Pack 3 (5.0 - 2195)] uptime[5d 6h 34m 26s] cpu[1-AMD XP, 1393MHz, 256KB (9% Load)] mem[Usage: 218/512MB (42.58%)[||||||||||||------------------]] network[#1 (SiS NIC SISNIC (10Mb/s) 0.00MB In, 0.00MB Out) #2(WAN (PPP/SLIP) Interface (115Kb/s) 5.39MB In, 1.23MB Out)] graphics[RADEON 7000 SERIES 1024x768 16bit 85Hz] dialup[AT&T Worldnet via Standard 56000 bps V90 
+1056430090 [127] <nenoclone/#videogames> that
+1056430091 [128] <nenoclone/#videogames> and
+1056430093 [129] <nenoclone/#videogames> ::Windows 2000 Professional, Service Pack 3 (5.0 - 2195) uptime - 5d 6h 34m 30s
+1056430094 [130] closed db seen
+1056430094 [131] opened seen -> ./nenobot-seen
+1056430094 [132] <nenoclone/#videogames> that
+1056430095 [133] <nenoclone/#videogames> and
+1056430126 [134] <nenoclone/#videogames> 2mbm5info[System: °C,  CPU, Fan(1):  RPM, Fan(2):  RPM, Fan(3):  RPM, Fan(4):  RPM]
+1056430128 [135] <nenoclone/#videogames> that
+1056430129 [136] <nenoclone/#videogames> but
+1056430132 [137] closed db seen
+1056430132 [138] opened seen -> ./nenobot-seen
+1056430132 [139] <nenoclone/#videogames> that doesnt work yet
+1056430171 [140] <nenolod/#videogames> I pwn you all.
+1056430175 [141] <nenolod/#videogames> Thanks for playing.
+1056430176 [142] >>> [1;32mSS4-Away[0m materializes into [1;32mSS4Gogita[0m
+1056430176 [143] <SS4Gogita/#videogames> is back from : Gone for 4hrs 44mins 34secs -
+1056430181 [144] >>> [1mnenoclone[0m has signed off IRC ([1mQuit: User pushed the X - because it's Xtra, baby[0m)
+1056430306 [145] >>> nenoclone (nenolod@42.dallas-26rh15rt-tx.dial-access.att.net) has joined #videogames
+1056430306 [146] >>> mode/[1m#VideoGames[0m [[1m+v nenoclone[0m] by [1mChanServ[0m
+1056430315 [147] <nenoclone/#videogames> I like mIRC much better
+1056430323 [148] closed db seen
+1056430323 [149] opened seen -> ./nenobot-seen
+1056430323 [150] <nenoclone/#videogames> that means... moo.dll script for it too!
+1056430324 [151] <nenoclone/#videogames> :P
+1056430373 [152] <nenoclone/#videogames> slaps uberqlone around a bit with a large trout
+1056430381 [153] <nenoclone/#videogames> O.o
+1056430404 [154] <uberqlone/#videogames> catches trout, filets & fries it, then eats.
+1056430534 [155] >>> [1mjarrett4[0m has signed off IRC ([1mQuit: [0m)
+1056430559 [156] closed db seen
+1056430559 [157] opened seen -> ./nenobot-seen
+1056430559 [158] <nenoclone/#videogames> brb
+1056430563 [159] >>> nenoclone (nenolod@42.dallas-26rh15rt-tx.dial-access.att.net) has left #videogames
+1056430670 [160] >>> nenoclone (nenolod@42.dallas-26rh15rt-tx.dial-access.att.net) has joined #videogames
+1056430670 [161] >>> mode/[1m#VideoGames[0m [[1m+v nenoclone[0m] by [1mChanServ[0m
+1056430869 [162] <nenoclone/#videogames> uberqlone: how the fuck do you script in mirc? :P
+1056430881 [163] <uberq^3/#videogames> i dont fuckin know i just started using it
+1056430882 [164] <uberq^3/#videogames> haha
+1056430983 [165] <nenoclone/#videogames> 12.86.250.42
+1056430985 [166] closed db seen
+1056430985 [167] opened seen -> ./nenobot-seen
+1056430985 [168] <nenoclone/#videogames> HAHAHAA
+1056430992 [169] >>> [1mDK745[0m has signed off IRC ([1mQuit: [0m)
+1056431015 [170] <nenoclone/#videogames> 2K
+1056431017 [171] <nenoclone/#videogames> LOL
+1056431079 [172] <uberqlone/#videogames> [Operating System]:-[Windows 2000 Pro, SP 3 (5.0 - 2195)] [CPU]:-[1-AMD XP, 1534MHz, 256KB (100% Load)] [RAM]:-[Usage: 211/512MB (41.21%)] [Uptime]:-[Now: 5hrs 36mins 19secs]-[Record: ] [Resolution]:-[1024x768 32bit 85Hz] [Card]:-[NVIDIA GeForce3 Ti 500]
+1056431079 [173] <uberqlone/#videogames> [Free Space]:-[C 1.09/55.89GB]-[D(ra1) 0/658.83MB]-[E(download & docs) 0/686.17MB]-[F 5.48/19.1GB]-[Total 6.57/76.3GB]
+1056431121 [174] closed db seen
+1056431121 [175] opened seen -> ./nenobot-seen
+1056431121 [176] <nenoclone/#videogames> HOW THE FUCK DO YOU LOAD SCRIPTS? :P
+1056431140 [177] <uberq^3/#videogames> ./load -rs script
+1056431142 [178] <nenoclone/#videogames> ok
+1056431150 [179] <nenoclone/#videogames> cool
+1056431172 [180] <uberqlone/#videogames> is listening to ACDC - Shook You All Night Long @ 112kbps - 9s of 3m30s (36/733)
+1056431180 [181] closed db seen
+1056431180 [182] opened seen -> ./nenobot-seen
+1056431180 [183] <nenoclone/#videogames> Gah.
+1056431213 [184] <nenoclone/#videogames> [Operating System]:-[Windows 2000 Pro, SP 3 (5.0 - 2195)] [CPU]:-[1-AMD XP, 1393MHz, 256KB (0% Load)] [RAM]:-[Usage: 221/512MB (43.16%)] [Uptime]:-[Now: 5days 6hrs 53mins 11secs]-[Record: ] [Resolution]:-[1024x768 16bit 85Hz] [Card]:-[RADEON 7000 SERIES]
+1056431214 [185] <nenoclone/#videogames> [Free Space]:-[C 41.44/45.56GB]-[Total 41.44/45.56GB]
+1056431215 [186] <nenoclone/#videogames> Yay.
+1056431243 [187] <nenoclone/#videogames> now to make it do what we want
+1056431274 [188] closed db seen
+1056431274 [189] opened seen -> ./nenobot-seen
+1056431274 [190] <uberqlone/#videogames> slaps nenoclone around a bit with a large trout
+1056431281 [191] <uberqlone/#videogames> hahahaha
+1056431295 [192] <uberqlone/#videogames> theres a convenient slap button in the rc menu
+1056431308 [193] <uberqlone/#videogames> slaps uberqlone around a bit with a large trout
+1056431310 [194] >>> Alice5150 (Alice5150@ACC3F4BD.ipt.aol.com) has joined #VideoGames
+1056431310 [195] >>> mode/[1m#VideoGames[0m [[1m+v Alice5150[0m] by [1mChanServ[0m
+1056431338 [196] >>> Alice5150 (Alice5150@ACC3F4BD.ipt.aol.com) has left #VideoGames
+1056431342 [197] <nenoclone/#videogames> [CPU]:-[1-AMD XP, 1393MHz, 256KB (9% Load)] [RAM]:-[Usage: 219/512MB (42.77%)] [Uptime]:-[Now: 5days 6hrs 55mins 20secs]-[Record: ] [Resolution]:-[1024x768 16bit 85Hz] [Card]:-[RADEON 7000 SERIES]
+1056431342 [198] closed db seen
+1056431342 [199] opened seen -> ./nenobot-seen
+1056431342 [200] <nenoclone/#videogames> [Free Space]:-[C 41.44/45.56GB]-[Total 41.44/45.56GB]
+1056431347 [201] <nenoclone/#videogames> O.o
+1056431444 [202] <nenoclone/#videogames> os[Windows 2000 Professional, Service Pack 3 (5.0 - 2195)] [CPU]:-[1-AMD XP, 1393MHz, 256KB (9% Load)] [RAM]:-[Usage: 219/512MB (42.77%)] [Uptime]:-[Now: 5days 6hrs 57mins 2secs]-[Record: ] [Resolution]:-[1024x768 16bit 85Hz] [Card]:-[RADEON 7000 SERIES]
+1056431444 [203] <nenoclone/#videogames> [Free Space]:-[C 41.44/45.56GB]-[Total 41.44/45.56GB]
+1056431448 [204] <nenoclone/#videogames> Yes! I pwn!
+1056431466 [205] closed db seen
+1056431466 [206] opened seen -> ./nenobot-seen
+1056431466 [207] <uberq^3/#videogames> what did you change
+1056431473 [208] <nenoclone/#videogames> working
+1056431483 [209] <nenoclone/#videogames> i'm turning that script into the one i wrote
+1056431484 [210] <nenoclone/#videogames> :)
+1056431489 [211] <uberq^3/#videogames> ah
+1056431779 [212] closed db seen
+1056431779 [213] opened seen -> ./nenobot-seen
+1056431779 [214] <nenoclone/#videogames> os[Windows 2000 Professional, Service Pack 3 (5.0 - 2195)] uptime[5d 7h 2m 36s] [CPU]:-[1-AMD XP, 1407MHz, 256KB (9% Load)] [RAM]:-[Usage: 219/512MB (42.77%)] [Uptime]:-[Now: 5days 7hrs 2mins 37secs]-[Record: ] [Resolution]:-[1024x768 16bit 85Hz] [Card]:-[RADEON 7000 SERIES]
+1056431779 [215] <nenoclone/#videogames> [Free Space]:-[C 41.44/45.56GB]-[Total 41.44/45.56GB]
+1056432045 [216] >>> DarthWufei (DarthWufei@ip68-13-240-27.ok.ok.cox.net) has joined #videogames
+1056432045 [217] >>> mode/[1m#VideoGames[0m [[1m+v DarthWufei[0m] by [1mChanServ[0m
+1056432056 [218] <nenoclone/#videogames> asimov might be no more
+1056432061 [219] <nenoclone/#videogames> motherboard's going south
+1056432065 [220] <uberq^3/#videogames> ?
+1056432067 [221] closed db seen
+1056432067 [222] opened seen -> ./nenobot-seen
+1056432067 [223] <uberq^3/#videogames> ouch
+1056432074 [224] <uberq^3/#videogames> is asimov the ppro?
+1056432077 [225] <nenoclone/#videogames> yup
+1056432152 [226] >>> [1mnenolod[0m has signed off IRC ([1mQuit: [cIRCus] Get the latest copy of cIRCus with that new /packet-user function![0m)
+1056432238 [227] <nenoclone/#videogames> killed 19 irssi clients he had running
+1056432240 [228] <nenoclone/#videogames> OOPS
+1056432241 [229] closed db seen
+1056432241 [230] opened seen -> ./nenobot-seen
+1056432241 [231] <nenoclone/#videogames> lol
+1056432248 [232] <uberq^3/#videogames> haha
+1056432257 [233] <nenoclone/#videogames> that MIGHT HAVE HAD SOMETHING TO DO WITH IT
+1056432258 [234] <nenoclone/#videogames> lol
+1056432274 [235] >>> [1;32mnenoclone[0m materializes into [1;32mnenolod[0m
+1056432286 [236] >>> mode/[1m#VideoGames[0m [[1m+o nenolod[0m] by [1mChanServ[0m
+1056432330 [237] <nenolod/#videogames> board went south
+1056432336 [238] closed db seen
+1056432336 [239] opened seen -> ./nenobot-seen
+1056432336 [240] <nenolod/#videogames> trying to keep load on it to a minimum
+1056432383 [241] <nenolod/#videogames> you know the IBM netfinity i have?
+1056432387 [242] <nenolod/#videogames> That might be the new asimov.
+1056432409 [243] <uberq^3/#videogames> poorpro asimov
+1056432423 [244] <nenolod/#videogames> it'll have 6 PPro's whee!
+1056432462 [245] closed db seen
+1056432462 [246] opened seen -> ./nenobot-seen
+1056432462 [247] <nenolod/#videogames> oooh
+1056432465 [248] <nenolod/#videogames> server -m
+1056432579 [249] <nenolod/#videogames>  server -m server.com = new server
+1056432579 [250] <nenolod/#videogames> :)
+1056432593 [251] <nenolod/#videogames> Puff[Away]: add uberq^3 to the AOP list please.
+1056432705 [252] closed db seen
+1056432705 [253] opened seen -> ./nenobot-seen
+1056432706 [254] <nenolod/#videogames> bah
+1056432730 [255] >>> [1;32mnenolod[0m materializes into [1;32mnenoclone[0m
+1056432746 [256] >>> nenolod (~nenolod@67.128.0.35) has joined #videogames
+1056432746 [257] >>> mode/[1m#VideoGames[0m [[1m+o nenolod[0m] by [1mChanServ[0m
+1056432754 [258] >>> mode/[1m#VideoGames[0m [[1m-o nenoclone[0m] by [1mnenolod[0m
+1056433127 [259] >>> Dhylec (~dhylec@user-0cev0g9.cable.mindspring.com) has joined #VideoGames
+1056433127 [260] >>> mode/[1m#VideoGames[0m [[1m+v Dhylec[0m] by [1mChanServ[0m
+1056433326 [261] <nenoclone/#videogames> Hi, and welcome to #videogames. Just a reminder, we don't allow warez here.
+1056433329 [262] <nenoclone/#videogames> bleah.
+1056433337 [263] <nenoclone/#videogames> ./alias hi /say Hi, $- and welcome to #videogames. Just a reminder, we don't allow warez here.
+1056433339 [264] >>> [1mDarthWufei[0m has signed off IRC ([1mQuit: Henshin-a-go-go, Baby![0m)
+1056433345 [265] <nenoclone/#videogames> ./alias hi /say Hi, $1 and welcome to #videogames. Just a reminder, we don't allow warez here.
+1056433351 [266] closed db seen
+1056433351 [267] opened seen -> ./nenobot-seen
+1056433351 [268] <nenoclone/#videogames> Hi, Dhylec and welcome to #videogames. Just a reminder, we don't allow warez here.
+1056433353 [269] <nenoclone/#videogames> YES!
+1056433355 [270] <uberq^3/#videogames> what about wherez?
+1056433356 [271] statement: <nenoclone> I AM TEH PWN.
+1056433356 [272] enter: <nenoclone> nenoclone =is=> TEH PWN.
+1056433356 [273] <nenoclone/#videogames> I AM TEH PWN.
+1056433388 [274] <Dhylec/#videogames> !scores
+1056433463 [275] >>> [1;32mksh[0m materializes into [1;32mksh[a][0m
+1056433480 [276] <nenoclone/#videogames> slaps uberqlone around a bit with a large trout
+1056433487 [277] closed db seen
+1056433487 [278] opened seen -> ./nenobot-seen
+1056433487 [279] <nenoclone/#videogames> slaps nenolod around a bit with a large trout
+1056433489 [280] <uberqlone/#videogames> dies
+1056433491 [281] <nenoclone/#videogames> slaps nenolod around a bit with a large trout
+1056433496 [282] <nenoclone/#videogames> damn
+1056433508 [283] <uberq^3/#videogames> YOU FUCKER
+1056433515 [284] closed db seen
+1056433515 [285] opened seen -> ./nenobot-seen
+1056433515 [286] <uberq^3/#videogames> YOU KILLED MY QLONE
+1056433535 [287] <nenoclone/#videogames> resuscitates it.
+1056433554 [288] <uberqlone/#videogames> is still dead, and is rather rank and stiff by now
+1056433579 [289] <uberq^3/#videogames> haha
+1056433707 [290] <uberqlone/#videogames> is listening to Michael Jackson - Billie Jean @ 128kbps - 8s of 4m54s (483/733)
+1056433857 [291] closed db seen
+1056433857 [292] opened seen -> ./nenobot-seen
+1056433857 [293] <nenoclone/#videogames> is listening to Kamaya Painters - Far From Over @ 128kbps - 4m20s of 5m53s (1/1)
+1056433889 [294] <uberq^3/#videogames> mines better
+1056433957 [295] >>> Dhylec (~dhylec@user-0cev0g9.cable.mindspring.com) has left #VideoGames
+1056434115 [296] <nenoclone/#videogames> is listening to Red Hot Chili Peppers - Aeroplane @ 128kbps - 2m29s of 4m44s (1/121)
+1056434168 [297] <uberqlone/#videogames> is listening to The Beatles - Here Comes The Sun @ 128kbps - 13s of 3m3s (91/733)
+1056434263 [298] <nenoclone/#videogames> is listening to Kamaya Painters - Outstream @ 160kbps - 15s of 4m45s (32/121)
+1056434394 [299] CTCP VERSION #videogames request from nenoclone
+1056434412 [300] closed db seen
+1056434412 [301] opened seen -> ./nenobot-seen
+1056434412 [302] <SideLabel/#videogames> FUCKEER
+1056434415 [303] <SideLabel/#videogames> -E
+1056434442 [304] <SideLabel/#videogames> version this
+1056434457 [305] <SideLabel/#videogames> shoves his foot up neno's clone's ass
+1056434495 [306] <nenoclone/#videogames> heh
+1056434501 [307] closed db seen
+1056434501 [308] opened seen -> ./nenobot-seen
+1056434501 [309] <nenoclone/#videogames> os[Windows 2000 Professional, Service Pack 3 (5.0 - 2195)] uptime[5d 7h 47m 58s] [CPU]:-[1-AMD XP, 1415MHz, 256KB (0% Load)] [RAM]:-[Usage: 217/512MB (42.38%)] [Uptime]:-[Now: 5days 7hrs 47mins 59secs]-[Record: ] [Resolution]:-[1024x768 16bit 85Hz] [Card]:-[RADEON 7000 SERIES]
+1056434501 [310] <nenoclone/#videogames> [Free Space]:-[C 41.44/45.56GB]-[Total 41.44/45.56GB]
+1056434503 [311] <nenoclone/#videogames> :)
+1056434553 [312] <nenoclone/#videogames> is listening to U2 - Desire @ 96kbps - 19s of 3m (76/121)
+1056434601 [313] <uberqlone/#videogames> is listening to Bon Jovi - Living on a Prayer @ 128kbps - 27s of 4m10s (131/733)
+1056434632 [314] closed db seen
+1056434632 [315] opened seen -> ./nenobot-seen
+1056434632 [316] <nenoclone/#videogames> ok
+1056434637 [317] <nenoclone/#videogames> we're gonna play that game huh?
+1056434639 [318] <nenoclone/#videogames> is listening to VNV Nation - Beloved @ 128kbps - 12s of 7m24s (89/121)
+1056434656 [319] <uberq^3/#videogames> i like to listen to my music thank you very much :p
+1056434684 [320] <nenoclone/#videogames> thinks uberq^3's gonna use mirc for all his IRC needs.
+1056434693 [321] closed db seen
+1056434693 [322] opened seen -> ./nenobot-seen
+1056434693 [323] <uberq^3/#videogames> heh
+1056434707 [324] statement: <uberq^3> trlilian is still so pretty though
+1056434707 [325] enter: <uberq^3> trlilian =is=> still so pretty though
+1056434707 [326] <uberq^3/#videogames> trlilian is still so pretty though
+1056434840 [327] <nenoclone/#videogames> points at Invision for mIRC
+1056434851 [328] <uberq^3/#videogames> whatsit
+1056434860 [329] <nenoclone/#videogames> Google.
+1056435026 [330] closed db seen
+1056435026 [331] opened seen -> ./nenobot-seen
+1056435026 [332] type http: http://members.cox.net/invision-irc/i2b2520.htm
+1056435026 [333] <nenoclone/#videogames> http://members.cox.net/invision-irc/i2b2520.htm
+1056435060 [334] <uberq^3/#videogames> well ive found places to get it
+1056435064 [335] <uberq^3/#videogames> but not what it is
+1056435086 [336] statement: <uberq^3> their homepage is dead
+1056435086 [337] enter: <uberq^3> their homepage =is=> dead
+1056435086 [338] closed db is
+1056435086 [339] opened is -> ./nenobot-is
+1056435086 [340] <uberq^3/#videogames> their homepage is dead
+1056435091 [341] <nenoclone/#videogames> it makes mIRC pretty
+1056435099 [342] closed db seen
+1056435099 [343] opened seen -> ./nenobot-seen
+1056435099 [344] <uberq^3/#videogames> ah ok then
+1056435103 [345] <nenoclone/#videogames> used to use it when he used mIRC.
+1056435113 [346] statement: <nenoclone> the finger icon is funny
+1056435113 [347] enter: <nenoclone> finger icon =is=> funny
+1056435113 [348] <nenoclone/#videogames> the finger icon is funny
+1056435117 [349] <nenoclone/#videogames> it's a middle finger.
+1056435120 [350] <uberq^3/#videogames> haha
+1056435120 [351] closed db seen
+1056435120 [352] opened seen -> ./nenobot-seen
+1056435120 [353] <nenoclone/#videogames> :)
+1056435152 [354] statement: <nenoclone> 2520 is the one you want
+1056435152 [355] enter: <nenoclone> 2520 =is=> the one you want
+1056435152 [356] <nenoclone/#videogames> 2520 is the one you want
+1056435193 [357] <uberq^3/#videogames> swank
+1056435203 [358] <nenoclone/#videogames> wonders what would happen if i enabled SSL support and renamed ubertech's IRC network to TerrorNET.
+1056435211 [359] <uberq^3/#videogames> hahaha
+1056435301 [360] closed db seen
+1056435301 [361] opened seen -> ./nenobot-seen
+1056435301 [362] statement: <nenoclone> Invision is the shit they use for warez trading too
+1056435301 [363] enter: <nenoclone> invision =is=> the shit they use for warez trading too
+1056435301 [364] <nenoclone/#videogames> Invision is the shit they use for warez trading too
+1056435306 [365] <nenoclone/#videogames> built in fileserver module
+1056435310 [366] <nenoclone/#videogames> :)
+1056435321 [367] <uberq^3/#videogames> haha
+1056435376 [368] statement: <nenoclone> OpenIRC is on the mIRC server list
+1056435376 [369] enter: <nenoclone> openirc =is=> on the mIRC server list
+1056435376 [370] <nenoclone/#videogames> OpenIRC is on the mIRC server list
+1056435380 [371] closed db seen
+1056435380 [372] opened seen -> ./nenobot-seen
+1056435380 [373] <nenoclone/#videogames> lol
+1056435383 [374] <uberq^3/#videogames> must sell computer
+1056435386 [375] <uberq^3/#videogames> funds
+1056435388 [376] <uberq^3/#videogames> buy
+1056435391 [377] <uberq^3/#videogames> terminator 2
+1056435392 [378] closed db seen
+1056435392 [379] opened seen -> ./nenobot-seen
+1056435392 [380] <uberq^3/#videogames> arcade
+1056435396 [381] <uberq^3/#videogames> judgement day
+1056435399 [382] <uberq^3/#videogames> ill be back
+1056435402 [383] <uberq^3/#videogames> sell computer
+1056435404 [384] <uberq^3/#videogames> sell
+1056435406 [385] closed db seen
+1056435406 [386] opened seen -> ./nenobot-seen
+1056435406 [387] <uberq^3/#videogames> cash
+1056435407 [388] <nenoclone/#videogames> haha
+1056435407 [389] <uberq^3/#videogames> funds
+1056435410 [390] <nenoclone/#videogames> NO
+1056435419 [391] <nenoclone/#videogames> slaps uberq^3 around a bit with a large trout
+1056435421 [392] closed db seen
+1056435421 [393] opened seen -> ./nenobot-seen
+1056435421 [394] <SS4Gogita/#videogames> is away :
+1056435423 [395] <nenoclone/#videogames> [12CPU]:-[101-AMD XP, 1393MHz, 256KB (19% Load)] [12RAM]:-[10Usage: 220/512MB (42.97%)] [12Uptime]:-[10Now: 5days 8hrs 3mins 21secs]-[10Record: ] [12Resolution]:-[101024x768 16bit 85Hz]
+1056435423 [396] <nenoclone/#videogames> [12Free Space]:-[10C 41.44/45.56GB]-[10Total 41.44/45.56GB]
+1056435425 [397] >>> [1;32mSS4Gogita[0m materializes into [1;32mSS4-Away[0m
+1056435427 [398] <nenoclone/#videogames> oog
+1056435428 [399] <nenoclone/#videogames> ooh
+1056435439 [400] closed db seen
+1056435439 [401] opened seen -> ./nenobot-seen
+1056435439 [402] <nenoclone/#videogames> slaps uberq^3 around a bit with a large trout
+1056435442 [403] <nenoclone/#videogames> slaps uberq^3 around a bit with a large trout
+1056435444 [404] <uberq^3/#videogames> but
+1056435446 [405] <nenoclone/#videogames> slaps uberq^3 around a bit with a large trout
+1056435446 [406] <nenoclone/#videogames> slaps uberq^3 around a bit with a large trout
+1056435446 [407] closed db seen
+1056435446 [408] opened seen -> ./nenobot-seen
+1056435446 [409] <nenoclone/#videogames> slaps uberq^3 around a bit with a large trout
+1056435448 [410] <nenoclone/#videogames> slaps uberq^3 around a bit with a large trout
+1056435449 [411] <uberq^3/#videogames> its termalicious
+1056435457 [412] <nenoclone/#videogames> slaps uberq^3 around a bit with a large trout
+1056435471 [413] <nenoclone/#videogames> you have been erased.
+1056435474 [414] closed db seen
+1056435474 [415] opened seen -> ./nenobot-seen
+1056435474 [416] <nenoclone/#videogames> :P
+1056435477 [417] <uberq^3/#videogames> haha
+1056435521 [418] nenoclone is addressing me
+1056435521 [419] statement: <nenoclone> Puffball is has a sexuality problem.
+1056435521 [420] enter: <nenoclone> puffball =is=> has a sexuality problem.
+1056435521 [421] closed db is
+1056435521 [422] opened is -> ./nenobot-is
+1056435521 [423] </#videogames> OK, nenoclone.
+1056435521 [424] <nenoclone/#videogames> nenobot, Puffball is has a sexuality problem.
+1056435528 [425] <uberq^3/#videogames> hahaha
+1056435529 [426] nenoclone is addressing me
+1056435529 [427] match: puffball => somebody said puffball was has a sexuality problem.
+1056435529 [428] Question: <nenoclone>  puffball?
+1056435529 [429] </#videogames> somebody said puffball was has a sexuality problem.
+1056435529 [430] <nenoclone/#videogames> nenobot, puffball?
+1056435549 [431] closed db seen
+1056435549 [432] opened seen -> ./nenobot-seen
+1056435549 [433] <uberq^3/#videogames> oh nenobot, i love your "was has" syndrome
+1056435578 [434] nenoclone is addressing me
+1056435578 [435] statement: <nenoclone> uberq^3 is loves to hit on things that dont exist.
+1056435578 [436] enter: <nenoclone> uberq^3 =is=> loves to hit on things that dont exist.
+1056435578 [437] </#videogames> OK, nenoclone.
+1056435578 [438] <nenoclone/#videogames> nenobot, uberq^3 is loves to hit on things that dont exist.
+1056435591 [439] match: uberq^3 => uberq^3 is probably loves to hit on things that dont exist.
+1056435591 [440] Question: <uberq^3>  uberq^3?
+1056435591 [441] </#videogames> uberq^3 is probably loves to hit on things that dont exist.
+1056435591 [442] <uberq^3/#videogames> uberq^3?
+1056435635 [443] <uberq^3/#videogames> well fine then nenobot
+1056435638 [444] <uberq^3/#videogames> you can have it that way
+1056435640 [445] closed db seen
+1056435640 [446] opened seen -> ./nenobot-seen
+1056435640 [447] <nenoclone/#videogames> that's right peeps
+1056435644 [448] <nenoclone/#videogames> we have NO LIFE
+1056435647 [449] forget: <nenoclone> uberq^3 =is=> loves to hit on things that dont exist.
+1056435647 [450] </#videogames> nenoclone: I forgot uberq^3
+1056435647 [451] <nenoclone/#videogames> forget uberq^3
+1056435688 [452] <nenoclone/#videogames> !list
+1056435688 [453] >>> [1mnenoclone[0m was kicked off [1m#VideoGames[0m by [1mPuff[Away][0m ([1mHasta la vista, baby![0m)
+1056435696 [454] <uberq^3/#videogames> haha
+1056435712 [455] uberq^3 is addressing me
+1056435712 [456] statement: <uberq^3> nenoclone is a warez fr33k
+1056435712 [457] </#videogames> ...but nenoclone is TEH PWN....
+1056435712 [458] FAILED update: <uberq^3> 'nenoclone =is=> a warez fr33k'
+1056435712 [459] <uberq^3/#videogames> nenobot, nenoclone is a warez fr33k
+1056435713 [460] >>> nenoclone (nenolod@42.dallas-26rh15rt-tx.dial-access.att.net) has joined #videogames
+1056435713 [461] >>> mode/[1m#VideoGames[0m [[1m+v nenoclone[0m] by [1mChanServ[0m
+1056435719 [462] closed db seen
+1056435719 [463] opened seen -> ./nenobot-seen
+1056435719 [464] <nenoclone/#videogames> OOPS
+1056435722 [465] uberq^3 is addressing me
+1056435722 [466] forget: <uberq^3> nenoclone =is=> TEH PWN.
+1056435722 [467] </#videogames> uberq^3: I forgot nenoclone
+1056435722 [468] <uberq^3/#videogames> nenobot, forget nenoclone
+1056435722 [469] <nenoclone/#videogames> is listening to White Stripes - There's No Home For You Here @ 190kbps - 6s of 3m43s (119/121)
+1056435724 [470] uberq^3 is addressing me
+1056435724 [471] statement: <uberq^3> nenoclone is a warez fr33k
+1056435724 [472] enter: <uberq^3> nenoclone =is=> a warez fr33k
+1056435724 [473] </#videogames> OK, uberq^3.
+1056435724 [474] <uberq^3/#videogames> nenobot, nenoclone is a warez fr33k
+1056435727 [475] match: nenoclone => well, nenoclone is a warez fr33k
+1056435727 [476] Question: <uberq^3>  nenoclone?
+1056435727 [477] </#videogames> well, nenoclone is a warez fr33k
+1056435727 [478] <uberq^3/#videogames> nenoclone?
+1056435734 [479] closed db seen
+1056435734 [480] opened seen -> ./nenobot-seen
+1056435734 [481] <uberq^3/#videogames> haha
+1056435740 [482] <uberqlone/#videogames> is listening to Michael Jackson - PYT (Pretty Young Thing) @ 128kbps - 52s of 3m59s (490/733)
+1056435849 [483] <uberq^3/#videogames> drools over galaga
+1056435916 [484] <nenoclone/#videogames> invision installed brb
+1056435923 [485] >>> nenoclone (nenolod@42.dallas-26rh15rt-tx.dial-access.att.net) has left #videogames
+1056436270 [486] >>> Asimara (~nenolod@42.dallas-26rh15rt-tx.dial-access.att.net) has joined #videogames
+1056436270 [487] >>> mode/[1m#VideoGames[0m [[1m+v Asimara[0m] by [1mChanServ[0m
+1056436275 [488] <Asimara/#videogames> yay!
+1056436279 [489] closed db seen
+1056436279 [490] opened seen -> ./nenobot-seen
+1056436279 [491] <Asimara/#videogames> NO MORE FUCKING FIXEDSYS.
+1056436293 [492] <uberq^3/#videogames> fixed, more like fuckedsys
+1056436319 [493] <uberq^3/#videogames> HOLY SHIT
+1056436321 [494] >>> [1;32mAsimara[0m materializes into [1;32mnenoclone[0m
+1056436327 [495] <uberq^3/#videogames> i HAVE to have lethal enforcers
+1056436329 [496] <uberq^3/#videogames> or area 51
+1056436332 [497] closed db seen
+1056436332 [498] opened seen -> ./nenobot-seen
+1056436332 [499] <uberq^3/#videogames> maximum force
+1056436336 [500] <uberq^3/#videogames> some light gun game
+1056436338 [501] <uberq^3/#videogames> MUST
+1056436352 [502] <nenoclone/#videogames> slaps uberqlone around a bit with a large trout
+1056436370 [503] <uberq^3/#videogames> must
+1056436754 [504] closed db seen
+1056436754 [505] opened seen -> ./nenobot-seen
+1056436754 [506] type http: http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=3229557747&category=13716 !!!!
+1056436754 [507] <uberq^3/#videogames> http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=3229557747&category=13716 !!!!
+1056436861 [508] statement: <uberq^3> yeah this is a sign i need some zzzzz's
+1056436861 [509] enter: <uberq^3> yeah this =is=> a sign i need some zzzzz's
+1056436861 [510] closed db is
+1056436861 [511] opened is -> ./nenobot-is
+1056436861 [512] <uberq^3/#videogames> yeah this is a sign i need some zzzzz's
+1056436871 [513] >>> [1muberq^3[0m has signed off IRC ([1mQuit: Uberq Stop Error Code #876238746238[0m)
+1056436885 [514] >>> [1muberqlone[0m has signed off IRC ([1mQuit: [0m)
+1056438214 [515] >>> [1mPenguinOnIce[0m has signed off IRC ([1mQuit: [0m)
+1056438645 [516] >>> [1;32mJerado[0m materializes into [1;32mJerado-away[0m
+1056441627 [517] <SideLabel/#videogames> is away, auto-away after 60 minutes, (log\on pager\on)
+1056442262 [518] >>> phobo (phobo@ACBB24A2.ipt.aol.com) has joined #VideoGames
+1056442262 [519] >>> mode/[1m#VideoGames[0m [[1m+v phobo[0m] by [1mChanServ[0m
+1056442286 [520] >>> phobo (phobo@ACBB24A2.ipt.aol.com) has left #VideoGames
+1056443276 [521] >>> [1mSideLabel[0m has signed off IRC ([1mRead error: Connection reset by peer[0m)
+1056443735 [522] >>> [1mKeeshi[0m has signed off IRC ([1mQuit: [0m)
+1056443994 [523] >>> Keeshi (~no@ip68-12-32-112.ok.ok.cox.net) has joined #videogames
+1056443994 [524] >>> mode/[1m#VideoGames[0m [[1m+v Keeshi[0m] by [1mChanServ[0m
+1056445861 [525] >>> [1mElzie_Ann[0m has signed off IRC ([1mPing timeout[0m)
+1056448702 [526] >>> nenoclone (~nenolod@42.dallas-26rh15rt-tx.dial-access.att.net) has left #videogames
+1056450063 [527] >>> Vinnie|Busy (14Incher@ACAECD31.ipt.aol.com) has joined #videogames
+1056450063 [528] >>> mode/[1m#VideoGames[0m [[1m+v Vinnie|Busy[0m] by [1mChanServ[0m
+1056450097 [529] >>> [1;32mVinnie|Busy[0m materializes into [1;32mVinnie[0m
+1056450634 [530] <Vinnie/#videogames> Puff away on my penis
+1056450659 [531] <Vinnie/#videogames> Har har, get it?
+1056450668 [532] closed db seen
+1056450668 [533] opened seen -> ./nenobot-seen
+1056450668 [534] <Vinnie/#videogames> gasps
+1056450679 [535] <Vinnie/#videogames> Someone named Outlaw Star 
+1056450729 [536] <Vinnie/#videogames> oh
+1056450730 [537] <Vinnie/#videogames> Heh
+1056450734 [538] <Vinnie/#videogames> That's Tyler
+1056450737 [539] closed db seen
+1056450737 [540] opened seen -> ./nenobot-seen
+1056450737 [541] <Vinnie/#videogames> Didn't realize!
+1056455089 [542] >>> [1;32mVinnie[0m materializes into [1;32mHot_As_Ice[0m
+1056455108 [543] >>> [1;32mHot_As_Ice[0m materializes into [1;32mVinnie[0m
+1056455269 [544] >>> OddPenguin (OddPenguin@pcp04017799pcs.walngs01.pa.comcast.net) has joined #videogames
+1056455269 [545] >>> mode/[1m#VideoGames[0m [[1m+o OddPenguin[0m] by [1mChanServ[0m
+1056456955 [546] >>> [1;32mOddPenguin[0m materializes into [1;32mOP-Away[0m
+1056457660 [547] >>> [1mOP-Away[0m has signed off IRC ([1mQuit: :: Nintendo Station :: http://www.nintendostation.com ::[0m)
+1056460256 [548] <Vinnie/#videogames> 
+1056460281 [549] <Vinnie/#videogames> 4hmm
+1056460284 [550] <Vinnie/#videogames> Heh
+1056462079 [551] >>> Shinya (~something@ool-182d3f29.dyn.optonline.net) has joined #VideoGames
+1056462079 [552] >>> mode/[1m#VideoGames[0m [[1m+v Shinya[0m] by [1mChanServ[0m
+1056462085 [553] <Shinya/#videogames> !list
+1056462086 [554] >>> [1mShinya[0m was kicked off [1m#VideoGames[0m by [1mPuff[Away][0m ([1mHasta la vista, baby![0m)
+1056462091 [555] >>> Shinya (~something@ool-182d3f29.dyn.optonline.net) has joined #VideoGames
+1056462091 [556] >>> mode/[1m#VideoGames[0m [[1m+v Shinya[0m] by [1mChanServ[0m
+1056462098 [557] <Shinya/#videogames> !list
+1056462098 [558] >>> [1mShinya[0m was kicked off [1m#VideoGames[0m by [1mPuff[Away][0m ([1mHasta la vista, baby![0m)
+1056464634 [559] >>> [1;32mVinnie[0m materializes into [1;32mVincent[0m
+1056464860 [560] >>> [1;32mVincent[0m materializes into [1;32mVinnie[0m
+1056467044 [561] >>> Cstdenis1 (14Incher@ACAECD31.ipt.aol.com) has joined #videogames
+1056467045 [562] >>> mode/[1m#VideoGames[0m [[1m+v Cstdenis1[0m] by [1mChanServ[0m
+1056467054 [563] >>> Cstdenis1 (14Incher@ACAECD31.ipt.aol.com) has left #videogames
+1056467122 [564] >>> [1;32mVinnie[0m materializes into [1;32mVincent[0m
+1056468259 [565] >>> [1mVincent[0m has signed off IRC ([1mQuit: Give me 5 dollars or the terrorists win.[0m)
+1056468570 [566] >>> DK745 (~pokedude7@cmu-24-35-89-87.mivlmd.cablespeed.com) has joined #videogames
+1056468570 [567] >>> mode/[1m#VideoGames[0m [[1m+v DK745[0m] by [1mChanServ[0m
+1056468973 [568] >>> DarthWufei (DarthWufei@ip68-13-240-27.ok.ok.cox.net) has joined #videogames
+1056468973 [569] >>> mode/[1m#VideoGames[0m [[1m+v DarthWufei[0m] by [1mChanServ[0m
+1056468985 [570] >>> Hybrid-Homer (~Mercenary@AC8C49C8.ipt.aol.com) has joined #videogames
+1056468985 [571] >>> mode/[1m#VideoGames[0m [[1m+v Hybrid-Homer[0m] by [1mChanServ[0m
+1056468989 [572] >>> [1;32mSS4-Away[0m materializes into [1;32mSS4Gogita[0m
+1056468989 [573] <SS4Gogita/#videogames> is back from : Gone for 8hrs 54mins 48secs -
+1056470361 [574] >>> Vincent (14Incher@ACAECD31.ipt.aol.com) has joined #videogames
+1056470362 [575] >>> mode/[1m#VideoGames[0m [[1m+v Vincent[0m] by [1mChanServ[0m
+1056470399 [576] >>> [1;32mPuff[Away][0m materializes into [1;32mPuffball[0m
+1056470470 [577] >>> [1;32mVincent[0m materializes into [1;32mTime_Warp_Gundam[0m
+1056470698 [578] >>> [1;32mTime_Warp_Gundam[0m materializes into [1;32mVincent[0m
+1056470967 [579] >>> [1;32mDarthWufei[0m materializes into [1;32mStrikerObi[0m
+1056470974 [580] >>> [1;32mStrikerObi[0m materializes into [1;32mDarthWufei[0m
+1056470978 [581] >>> [1;32mVincent[0m materializes into [1;32mAVC_President[0m
+1056471096 [582] >>> [1;32mAVC_President[0m materializes into [1;32mVincent[0m
+1056471404 [583] >>> Vincente (14Incher@ACAECD31.ipt.aol.com) has joined #videogames
+1056471405 [584] >>> mode/[1m#VideoGames[0m [[1m+v Vincente[0m] by [1mChanServ[0m
+1056471415 [585] >>> Vincente (14Incher@ACAECD31.ipt.aol.com) has left #videogames
+1056471486 [586] >>> Vincenzo (14Incher@ACAECD31.ipt.aol.com) has joined #videogames
+1056471486 [587] >>> mode/[1m#VideoGames[0m [[1m+v Vincenzo[0m] by [1mChanServ[0m
+1056471489 [588] closed db seen
+1056471489 [589] opened seen -> ./nenobot-seen
+1056471489 [590] <Puffball/#videogames> hey
+1056471493 [591] <Vincenzo/#videogames> Hello
+1056471495 [592] >>> Vincenzo (14Incher@ACAECD31.ipt.aol.com) has left #videogames
+1056471682 [593] <DarthWufei/#videogames> Ban Syl_Aran on sight.
+1056471692 [594] <Vincent/#videogames> no no
+1056471695 [595] <Vincent/#videogames> Let us harass him first
+1056471696 [596] closed db seen
+1056471696 [597] opened seen -> ./nenobot-seen
+1056471696 [598] <Vincent/#videogames> It's more fun
+1056471700 [599] <DarthWufei/#videogames> lol
+1056471755 [600] statement: <Vincent> Haha, this is so fun
+1056471755 [601] enter: <Vincent> haha, this =is=> so fun
+1056471755 [602] <Vincent/#videogames> Haha, this is so fun
+1056471766 [603] <Vincent/#videogames> I hav all three instances of IRC open
+1056471778 [604] <Vincent/#videogames> And a 2 second timer on each
+1056471784 [605] closed db seen
+1056471784 [606] opened seen -> ./nenobot-seen
+1056471784 [607] <Vincent/#videogames> And a mocker on each
+1056471790 [608] <Vincent/#videogames> All harassing one guy
+1056471842 [609] <Vincent/#videogames> And I probably have mad lag
+1056471846 [610] <Vincent/#videogames> But oh well
+1056472017 [611] <Puffball/#videogames> I'm closed to taking over PGC
+1056472022 [612] closed db seen
+1056472022 [613] opened seen -> ./nenobot-seen
+1056472022 [614] <Puffball/#videogames> join #PlanetChat
+1056472030 [615] <Vincent/#videogames> Oh fuck yes
+1056472041 [616] <Vincent/#videogames> You better let me in on this if you do
+1056472043 [617] <Vincent/#videogames> I wanna kick some people
+1056472099 [618] <Puffball/#videogames> lol
+1056472135 [619] closed db seen
+1056472135 [620] opened seen -> ./nenobot-seen
+1056472135 [621] <DarthWufei/#videogames> I'm not in it plzkthx
+1056472136 [622] <DarthWufei/#videogames> Heh
+1056472152 [623] statement: IGNORED <Vincent> Who are we picking on?
+1056472152 [624] <Vincent/#videogames> Who are we picking on?
+1056472176 [625] <SS4Gogita/#videogames> What happened?
+1056472211 [626] closed db plusplus
+1056472211 [627] opened plusplus -> ./nenobot-karma
+1056472211 [628] <SS4Gogita/#videogames> [12:25:51] -ChanServ- Channel #planetchat isn't registered. <-- @_@
+1056472218 [629] closed db seen
+1056472218 [630] opened seen -> ./nenobot-seen
+1056472218 [631] <SS4Gogita/#videogames> I guess you already knew this
+1056472227 [632] <DarthWufei/#videogames> Yes, since billy has been inactive Gogita
+1056472237 [633] <DarthWufei/#videogames> The channel dropped heh
+1056472253 [634] <SS4Gogita/#videogames> I see.
+1056472288 [635] <Puffball/#videogames> *cough* I wonder who dropped it?
+1056472441 [636] <DarthWufei/#videogames> >_>
+1056472478 [637] closed db seen
+1056472478 [638] opened seen -> ./nenobot-seen
+1056472478 [639] statement: <SS4Gogita> good thing #planetgamecube is already regged.  They have to go with some fag0ty chat name as a new chat
+1056472478 [640] enter: <SS4Gogita> good thing #planetgamecube =is=> already regged.  They have to go with some fag0ty chat name as a new chat
+1056472478 [641] <SS4Gogita/#videogames> and good thing #planetgamecube is already regged.  They have to go with some fag0ty chat name as a new chat
+1056472488 [642] <SS4Gogita/#videogames> Because they won't be getting the chat back unless everyone leaves.
+1056472491 [643] <SS4Gogita/#videogames> Heh
+1056472516 [644] >>> [1;32mDarthWufei[0m materializes into [1;32mPrincessMonomoke[0m
+1056472567 [645] >>> Vincente (14Incher@ACAECD31.ipt.aol.com) has joined #videogames
+1056472568 [646] >>> mode/[1m#VideoGames[0m [[1m+v Vincente[0m] by [1mChanServ[0m
+1056472627 [647] >>> [1;32mVincente[0m materializes into [1;32mVinnie[0m
+1056472688 [648] >>> [1mVincent[0m has signed off IRC ([1mClient closed connection[0m)
+1056472698 [649] <PrincessMonomoke/#videogames> Yes SS4. And it'll be hard getting Mj to leave.
+1056472738 [650] <SS4Gogita/#videogames> 92 hours? Holy crap
+1056472790 [651] closed db seen
+1056472790 [652] opened seen -> ./nenobot-seen
+1056472790 [653] <PrincessMonomoke/#videogames> lol
+1056472923 [654] <Vinnie/#videogames> Harassing on IRC = Fun
+1056473125 [655] >>> [1mPrincessMonomoke[0m has signed off IRC ([1mQuit: Henshin-a-go-go, Baby![0m)
+1056473316 [656] <Puffball/#videogames> Puff Radio is streaming for all who is interested -- http://radio.shocknet.us:8000/
+1056473385 [657] <Vinnie/#videogames> Nev4r
+1056473401 [658] <Puffball/#videogames> ph33r m3
+1056473466 [659] closed db seen
+1056473466 [660] opened seen -> ./nenobot-seen
+1056473466 [661] <Vinnie/#videogames> Haha, I'm gonna sit in here and tell jokes all day
+1056473496 [662] <Puffball/#videogames> Fine with me.
+1056473502 [663] <Vinnie/#videogames> Not here
+1056473505 [664] <Vinnie/#videogames> Here = Planetchat
+1056473514 [665] <Puffball/#videogames> :o
+1056473672 [666] >>> BoNeRR (BoNeRR@bij95l7y2584.bc.hsia.telus.net) has joined #VideoGames
+1056473673 [667] >>> mode/[1m#VideoGames[0m [[1m+v BoNeRR[0m] by [1mChanServ[0m
+1056473731 [668] closed db seen
+1056473731 [669] opened seen -> ./nenobot-seen
+1056473731 [670] <Puffball/#videogames> Hi Bonerr 
+1056473733 [671] <Puffball/#videogames> heh heh
+1056473926 [672] <BoNeRR/#videogames> say
+1056473931 [673] <BoNeRR/#videogames> say hey buddy
+1056473939 [674] <Vinnie/#videogames> Say hey buddy
+1056473948 [675] closed db seen
+1056473948 [676] opened seen -> ./nenobot-seen
+1056473948 [677] <BoNeRR/#videogames> new to mirc,
+1056473959 [678] <Vinnie/#videogames> Hooray
+1056474268 [679] >>> [1mBoNeRR[0m has signed off IRC ([1mQuit: [0m)
+1056474778 [680] <Vinnie/#videogames> We need some timers going
+1056474785 [681] <Vinnie/#videogames> How do you set a timer to say text?
+1056474795 [682] >>> [1mVinnie[0m has signed off IRC ([1mQuit: Give me 5 dollars or the terrorists win.[0m)
+1056474801 [683] >>> Vincent (14Incher@ACAECD31.ipt.aol.com) has joined #videogames
+1056474801 [684] >>> mode/[1m#VideoGames[0m [[1m+v Vincent[0m] by [1mChanServ[0m
+1056474812 [685] <Vincent/#videogames> WHOOPS
+1056474825 [686] >>> Vinnie (14Incher@ACAECD31.ipt.aol.com) has joined #videogames
+1056474825 [687] >>> mode/[1m#VideoGames[0m [[1m+v Vinnie[0m] by [1mChanServ[0m
+1056475034 [688] closed db seen
+1056475034 [689] opened seen -> ./nenobot-seen
+1056475034 [690] <Vincent/#videogames> Make it go faster
+1056475074 [691] <Puffball/#videogames> Vincent
+1056475076 [692] <Puffball/#videogames> I can't.
+1056475087 [693] <Puffball/#videogames> Or it will get killed due to flooding.
+1056475125 [694] <Vinnie/#videogames> So?
+1056475127 [695] closed db seen
+1056475127 [696] opened seen -> ./nenobot-seen
+1056475127 [697] <Vinnie/#videogames> It'll rejoin
+1056475138 [698] <Vinnie/#videogames> What's the delay on right now?
+1056475155 [699] >>> Vinnie (14Incher@ACAECD31.ipt.aol.com) has left #videogames
+1056475227 [700] statement: <Puffball> The delay is two seconds
+1056475227 [701] enter: <Puffball> delay =is=> two seconds
+1056475227 [702] <Puffball/#videogames> The delay is two seconds
+1056475365 [703] >>> [1;32mPuffball[0m materializes into [1;32mPuff[Food][0m
+1056475623 [704] <Vincent/#videogames> Alright
+1056475623 [705] <Vincent/#videogames> Open another client and set a second one
+1056475623 [706] closed db seen
+1056475623 [707] opened seen -> ./nenobot-seen
+1056475623 [708] <Vincent/#videogames> Heh
+1056475623 [709] <Vincent/#videogames> BobbyRobby's got a timer on me
+1056475623 [710] <Vincent/#videogames> Thinking I don't know to do them back or something
+1056475623 [711] >>> [1mVincent[0m has signed off IRC ([1mWrite Error: Broken pipe[0m)
+1056475963 [712] >>> [1mHybrid-Homer[0m has signed off IRC ([1mWrite Error: Broken pipe[0m)
+1056476194 [713] >>> [1mKeeshi[0m has signed off IRC ([1mQuit: [0m)
+1056476533 [714] >>> [1mTHC{sleep}[0m has signed off IRC ([1mPing timeout[0m)
+1056476571 [715] >>> [1;32mPuff[Food][0m materializes into [1;32mPuffball[0m
+1056477575 [716] <DK745/#videogames> is away : Umm... stuff bbs
+1056477575 [717] >>> [1;32mDK745[0m materializes into [1;32mDK745-Away[0m
+1056477922 [718] <SS4Gogita/#videogames> is away :
+1056477942 [719] >>> [1;32mSS4Gogita[0m materializes into [1;32mSS4-Away[0m
+1056478522 [720] >>> DarthWufei (DarthWufei@ip68-13-240-27.ok.ok.cox.net) has joined #videogames
+1056478522 [721] >>> mode/[1m#VideoGames[0m [[1m+v DarthWufei[0m] by [1mChanServ[0m
+1056478569 [722] closed db seen
+1056478569 [723] opened seen -> ./nenobot-seen
+1056478569 [724] <Puffball/#videogames> hey wufei
+1056478596 [725] </#videogames> niihau, DarthWufei
+1056478596 [726] <DarthWufei/#videogames> HI
+1056478623 [727] <Puffball/#videogames> NENOLOD!
+1056479726 [728] >>> [1;32mPuffball[0m materializes into [1;32mPuff[Food][0m
+1056479893 [729] >>> SideLabel (~xtreme@12-246-5-173.client.attbi.com) has joined #videogames
+1056479893 [730] >>> mode/[1m#VideoGames[0m [[1m+v SideLabel[0m] by [1mChanServ[0m
+1056479948 [731] >>> [1mJerado-away[0m has signed off IRC ([1mWrite Error: Broken pipe[0m)
+1056479988 [732] >>> Jerado-away (Jerado@12-221-109-226.client.insightBB.com) has joined #VideoGames
+1056479988 [733] >>> mode/[1m#VideoGames[0m [[1m+v Jerado-away[0m] by [1mChanServ[0m
+1056480321 [734] >>> Elzie_Ann (~dannielle@63.93.83.167) has joined #videogames
+1056480321 [735] >>> mode/[1m#VideoGames[0m [[1m+v Elzie_Ann[0m] by [1mChanServ[0m
+1056480465 [736] >>> [1;32mPuff[Food][0m materializes into [1;32mPuffball[0m
+1056480802 [737] >>> Hybrid-Homer (Mercenary@ACA7AE33.ipt.aol.com) has joined #videogames
+1056480802 [738] >>> mode/[1m#VideoGames[0m [[1m+v Hybrid-Homer[0m] by [1mChanServ[0m
+1056480834 [739] <Puffball/#videogames> hey homer
+1056480843 [740] </#videogames> niihau, Hybrid-Homer
+1056480843 [741] <Hybrid-Homer/#videogames> hi
+1056481087 [742] >>> Hybrid-Homer (Mercenary@ACA7AE33.ipt.aol.com) has left #videogames :I can slam a tornado!    <alexandhisteninchlink> don't quote me again. <alexandhisteninchlink> EVER.
+1056481409 [743] >>> Hybrid-Homer (Mercenary@ACA7AE33.ipt.aol.com) has joined #videogames
+1056481409 [744] >>> mode/[1m#VideoGames[0m [[1m+v Hybrid-Homer[0m] by [1mChanServ[0m
+1056481723 [745] >>> [1;32mDK745-Away[0m materializes into [1;32mDK745[0m
+1056481724 [746] closed db seen
+1056481724 [747] opened seen -> ./nenobot-seen
+1056481724 [748] <DK745/#videogames> is back from : Umm... stuff bbs Gone for 1hr 9mins 8secs -
+1056481773 [749] >>> NightsB (~WinNT@user-12hdi4u.cable.mindspring.com) has joined #videogames
+1056481773 [750] >>> mode/[1m#VideoGames[0m [[1m+v NightsB[0m] by [1mChanServ[0m
+1056481805 [751] Question: <NightsB>  puffball
+1056481805 [752] </#videogames> puffball is has a sexuality problem.
+1056481805 [753] <NightsB/#videogames> puffball
+1056481810 [754] Question: <NightsB>  puffball
+1056481810 [755] </#videogames> puffball is has a sexuality problem.
+1056481810 [756] <NightsB/#videogames> puffball
+1056481811 [757] <NightsB/#videogames> hm
+1056481823 [758] statement: IGNORED <NightsB> his on join is displaying in #n-philes
+1056481823 [759] <NightsB/#videogames> his on join is displaying in #n-philes
+1056481829 [760] closed db seen
+1056481829 [761] opened seen -> ./nenobot-seen
+1056481829 [762] <Puffball/#videogames> wtf nenolod?
+1056481842 [763] <Puffball/#videogames> it is?
+1056481846 [764] <NightsB/#videogames> [15:09:11] * Now talking in #n-philes
+1056481846 [765] type http: [15:09:11] * Topic is 'www.N-Philes.com | http://www.polygonmag.com/ |  Keopardy and Trivia every Saturday starting at 8 PM EST, 7 PM CST, etc.  | Visit http://www.e32003.com/?affiliate=nphiles | #N-Philes - The only chat where if you don't talk you Get BANNED'
+1056481846 [766] statement: <NightsB> [15:09:11] * Topic is 'www.N-Philes.com | http://www.polygonmag.com/ |  Keopardy and Trivia every Saturday starting at 8 PM EST, 7 PM CST, etc.  | Visit http://www.e32003.com/?affiliate=nphiles | #N-Philes - The only chat where if you don't talk you Get BANNED'
+1056481846 [767] enter: <NightsB> [15:09:11] * topic =is=> 'www.N-Philes.com | http://www.polygonmag.com/ |  Keopardy and Trivia every Saturday starting at 8 PM EST, 7 PM CST, etc.  | Visit http://www.e32003.com/?affiliate=nphiles | #N-Philes - The only chat where if you don't talk you Get BANNED'
+1056481846 [768] <NightsB/#videogames> [15:09:11] * Topic is 'www.N-Philes.com | http://www.polygonmag.com/ |  Keopardy and Trivia every Saturday starting at 8 PM EST, 7 PM CST, etc.  | Visit http://www.e32003.com/?affiliate=nphiles | #N-Philes - The only chat where if you don't talk you Get BANNED'
+1056481846 [769] <NightsB/#videogames> [15:09:11] * Set by SS4-Away on Tue Jun 24 02:23:20
+1056481846 [770] closed db seen
+1056481846 [771] opened seen -> ./nenobot-seen
+1056481846 [772] <NightsB/#videogames> [15:09:11] -Puffball- ** WELCOME TO #VIDEOGAMES, NightsB! **
+1056481846 [773] Question: <Puffball_>  puffball
+1056481846 [774] </#videogames> i heard puffball was has a sexuality problem.
+1056481846 [775] <Puffball_/#videogames> puffball
+1056481848 [776] <NightsB/#videogames> threw me off
+1056481852 [777] <Puffball/#videogames> WTF
+1056481854 [778] >>> mode/[1m#VideoGames[0m [[1m+b *!*@fleenode.net[0m] by [1mPuffball[0m
+1056481854 [779] >>> [1mnenobot[0m was kicked off [1m#VideoGames[0m by [1mPuffball[0m ([1mPuffball[0m)
+1056481854 [780] SELF attempting to rejoin lost channel #VideoGames
+1056481854 [781] joined #VideoGames
+1056481854 [782] Cannot join channel (+b)
+1056505572 [783] QUIT nenobot has quit IRC (Nenobot 0.6 (http://nenobot.sourceforge.net/))
+1056505572 [784] closed db seen
+1056505572 [785] closed db ignore
+1056505572 [786] closed db is
+1056505572 [787] closed db are
+1056505572 [788] closed db plusplus
+1056505577 [1] loaded param file ./conf/nenobot.config (54 items)
+1056505577 [2] Loaded help file nenobot.help
+1056505577 [3] opened is -> ./nenobot-is
+1056505577 [4] opened are -> ./nenobot-are
+1056505577 [5] opened ignore -> ./nenobot-ignore
+1056505577 [6] loading sane defines conf/sane-is.txt
+1056505577 [7] loaded conf/sane-is.txt into is (8/8 good items)
+1056505577 [8] loading sane defines conf/sane-are.txt
+1056505577 [9] loaded conf/sane-are.txt into are (6/6 good items)
+1056505577 [10] Adding *cthulhu!hastur@*unspeakable.net to ignore list (from sane).
+1056505577 [11] Adding *!*@*nan*direct.ca to ignore list (from sane).
+1056505577 [12] Adding *!*@200.38.211.* to ignore list (from sane).
+1056505577 [13] opened plusplus -> ./nenobot-karma
+1056505577 [14] opened seen -> ./nenobot-seen
+1056505577 [15] Parsing User File
+1056505577 [16] Parsing Channel File
+1056505577 [17] setup: 30 factoids; 23 IS; 7 ARE
+1056505577 [18] Connecting to port 6667 of server irc.mircx.com (216.194.70.9)...
+1056505578 [19]  connected.
+1056505579 [20] UNKNOWN :irc.mircx.com NOTICE AUTH :*** Looking up your hostname...
+1056505579 [21] UNKNOWN :irc.mircx.com NOTICE AUTH :*** Checking Ident
+1056505579 [22] UNKNOWN :irc.mircx.com NOTICE AUTH :*** No Ident response
+1056505579 [23] UNKNOWN :irc.mircx.com NOTICE AUTH :*** Found your hostname
+1056505579 [24] joined #videogames
+1056505579 [25] joined #ubertech
+1056505579 [26] Your host is irc.mircx.com[@0.0.0.0], running version bahamut-1.4(35)
+1056505579 [27] This server was created Sun May 11 2003 at 21:02:03 MDT
+1056505579 [28] There are 80 users and 10846 invisible on 6 servers
+1056505579 [29] I have 10796 clients and 3 servers
+1056505579 [30] Current local users: 10796 Max: 11655
+1056505579 [31] Current global users: 10926 Max: 11778
+1056505579 [32] -[irc.mircx.com]- *** Notice -- motd was last changed at 31/12/1969 17:00
+1056505579 [33] -[irc.mircx.com]- *** Notice -- Please read the motd if you haven't read it
+1056505579 [34] - irc.mircx.com Message of the Day - 
+1056505579 [35] - *** This is the short motd ***
+1056505579 [36] End of /MOTD command.
+1056505579 [37] >>> nenobot sets mode: +i
+1056505579 [38] -Bot(bot@bot.mircx.com)- For security reasons, all connections to this network are subject to a proxy scan.  If your firewall reports a connection attempt from 216.194.70.12, please disregard it as it is the proxy scan in action and not a hack attempt or attack.
+1056505579 [39] -Bot(bot@bot.mircx.com)- Don't forget to register your nickname!  Visit http://www.mircx.com/register.html for more information.  Visit http://chat.cjb.net/ to create a free web based Java chat for your channel.  For assistance with this IRC network, contact CJB or e-mail ircadmin@mircx.com.
+1056505579 [40] >>> nenobot (~nenobot@fleenode.net) has joined #videogames
+1056505579 [41] >>> topic for [1m#videogames[0m: 9,0/0,9\3,9/9,3\1,3/3,1\9,1 0 VideoGames <> Welcome to the ultimate center point for all video game fans. We mean ALL video game fans! || Congrats to ViewtifulJosh for winning the most recent official Charactria game! Next Game's theme: Fighting Games (ALL platforms) || Puff Radio is streaming every Friday @ 8-12 PM. Listen at http://66.143.220.37:8000/
+1056505579 [42] >>> set by [1mPuffball[0m at [1m1056417043[0m
+1056505579 [43] NAMES #VideoGames: nenobot +jarrett4 +latinakitty007 +NightsB @OP-MakingLayout +SS4Gogita +TheHumanCow +Jerado +SideLabel @nenolod @Puff[Work] +Xergiez +ksh[a] +Puffball_ 
+1056505579 [44] End of /NAMES list.
+1056505579 [45] >>> mode/[1m#VideoGames[0m [[1m+v nenobot[0m] by [1mChanServ[0m
+1056505579 [46] -Puff[Work](Jason@ppp-66-143-220-37.dsl.spfdmo.swbell.net)- ** WELCOME TO #VIDEOGAMES, nenobot! **
+1056505579 [47] >>> nenobot (~nenobot@fleenode.net) has joined #ubertech
+1056505579 [48] NAMES #ubertech: @nenobot 
+1056505579 [49] End of /NAMES list.
+1056505579 [50] UNKNOWN :services.mircx.com TOPIC #ubertech :. o Ubertech - http://nenolod.freezope.org/ubertech/ o .
+1056505579 [51] -Puff[Work](Jason@ppp-66-143-220-37.dsl.spfdmo.swbell.net)- Charactria every Friday night @ 7 PM Central. Type !Charactria for the instructions on how to play, rules, and more info. Type !scores to get the Charactria Scores Archive.
+1056505579 [52] -Puff[Work](Jason@ppp-66-143-220-37.dsl.spfdmo.swbell.net)- Puff Radio ( 66.143.220.37 ) is streaming.
+1056505579 [53] -ChanServ(services@services.mircx.com)- This channel has been registered with ChanServ.
+1056505579 [54] >>> mode/[1m#ubertech[0m [[1m+ntr-o nenobot[0m] by [1mChanServ[0m
+1056505579 [55] number of modes does not match number of targets: +n t r -o / nenobot
+1056505598 [56] <nenolod/#videogames> Puff[Work]: fucker.
+1056505604 [57] <nenolod/#videogames> Puff[Work]: you banned my bot.
+1056505605 [58] <nenolod/#videogames> :P
+1056505609 [59] forget: <nenolod> puffball =is=> has a sexuality problem.
+1056505609 [60] </#videogames> nenolod: I forgot puffball
+1056505609 [61] <nenolod/#videogames> forget puffball
+1056505632 [62] closed db seen
+1056505632 [63] opened seen -> ./nenobot-seen
+1056505632 [64] >nenolod< Something failed in connecting to the NOAA web server. Try again later.
+1056505632 [65] <nenolod/#videogames> weather kiyx
+1056505725 [66] >>> Keeshi (~no@ip68-12-32-112.ok.ok.cox.net) has joined #videogames
+1056505725 [67] >>> mode/[1m#VideoGames[0m [[1m+v Keeshi[0m] by [1mChanServ[0m
+1056505900 [68] >>> [1mOP-MakingLayout[0m has signed off IRC ([1mQuit: :: Nintendo Station :: http://www.nintendostation.com ::[0m)

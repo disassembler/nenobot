@@ -41,6 +41,16 @@ sub IrcMsgHook {
 	    }
 	    return if (($message eq $prevmsg) && ($delay < 10));
 	} else {
+		# Messaging Revamps.
+		# Now use ~ to call the bot as well, this makes it ok to disable the no address rule if wanted.
+		$addressCharacter = "~";
+		if (defined $addressCharacter) {
+            	if ($message =~ s/^\Q$addressCharacter\E//) {
+				$addrchar  = 1;
+				$addressed = 1;
+			}
+		}
+
 	    $prevcount = 0;
 	    $firsttime = time;
 	}

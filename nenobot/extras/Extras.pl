@@ -218,9 +218,16 @@ sub Extras {
     } 
 
     if ($message =~ /^\s*lart (.*)\s*$/) {
+	my $channel = &channel();
 	my $victim = $1;
 	my $lart = &lart($victim);
-	return $lart;
+	&action($channel, $lart);
+	return 'NOREPLY';
+    }
+
+    if ($message =~ /^\s*ridicule (.*)\s*$/) {
+	my $victim = $1;
+	return "Are you aware, $1, that your father was a unicellular organism?";
     }
 
     # internic or RIPE whois

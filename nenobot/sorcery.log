@@ -1,0 +1,158 @@
+1043134432 [1] loaded param file ./conf/nenobot.config (55 items)
+1043134432 [2] Loaded help file nenobot.help
+1043134432 [3] created new db are -> ./sorcery-are
+1043134432 [4] FAILED to load conf/infobot-are.txt into are
+1043134432 [5] created new db is -> ./sorcery-is
+1043134432 [6] FAILED to load conf/infobot-is.txt into is
+1043134432 [7] created new db ignore -> ./sorcery-ignore
+1043134432 [8] FAILED to load conf/infobot-ignore.txt into ignore
+1043134432 [9] loading sane defines conf/sane-is.txt
+1043134432 [10] loaded conf/sane-is.txt into is (8/8 good items)
+1043134432 [11] loading sane defines conf/sane-are.txt
+1043134432 [12] loaded conf/sane-are.txt into are (6/6 good items)
+1043134432 [13] Adding *cthulhu!hastur@*unspeakable.net to ignore list (from sane).
+1043134432 [14] Adding *!*@*nan*direct.ca to ignore list (from sane).
+1043134432 [15] Adding *!*@200.38.211.* to ignore list (from sane).
+1043134432 [16] created new db plusplus -> ./sorcery-karma
+1043134432 [17] FAILED to load conf/infobot-plusplus.txt into plusplus
+1043134432 [18] created new db seen -> ./sorcery-seen
+1043134432 [19] FAILED to load conf/infobot-seen.txt into seen
+1043134432 [20] Parsing User File
+1043134432 [21] Parsing Channel File
+1043134432 [22] setup: 14 factoids; 8 IS; 6 ARE
+1043134432 [23] Connecting to port 6667 of server irc.bootbox.net (168.103.252.218)...
+1043134433 [24]  connected.
+1043134433 [25] !irc.bootbox.net! *** Looking up your hostname...
+1043134433 [26] !irc.bootbox.net! *** Found your hostname, cached
+1043134433 [27] !irc.bootbox.net! *** Checking Ident
+1043134433 [28] !irc.bootbox.net! *** No Ident response
+1043134433 [29] -[irc.bootbox.net]- *** Spoofing your IP. congrats.
+1043134433 [30] joined #sorcerer
+1043134433 [31] joined #sorcerer-bots
+1043134433 [32] joined #bootbox
+1043134433 [33] Your host is irc.bootbox.net[irc.bootbox.net/6667], running version 2.8/hybrid-6+ins7.6.2p2-REL(crc)(ssl)(hidei)(opme)(jb)
+1043134433 [34] -!irc.bootbox.net!- *** Your host is irc.bootbox.net[irc.bootbox.net/6667], running version 2.8/hybrid-6+ins7.6.2p2-REL(crc)(ssl)(hidei)(opme)(jb)
+1043134433 [35] This server was created Sat Dec 28 2002 at 16:19:36 EST
+1043134433 [36] There are 6 users and 9 invisible on 2 servers
+1043134433 [37] I have 9 clients and 1 servers
+1043134433 [38] Current local  users: 9  Max: 11
+1043134433 [39] Current global users: 15  Max: 17
+1043134433 [40] Highest connection count: 12 (11 clients) (203 since server was (re)started)
+1043134433 [41] - irc.bootbox.net Message of the Day - 
+1043134434 [42] - Welcome to the BootBox.net IRC Server.
+1043134434 [43] - 
+1043134434 [44] - This server was designed to provide chat solutions without lag,
+1043134434 [45] - annoyances, etc. to everyone dealing with BootBox.net and/or
+1043134434 [46] - the Pro Audio arena.
+1043134434 [47] - 
+1043134434 [48] - Please come in, have fun, be nice, and chat away!
+1043134434 [49] - 
+1043134434 [50] - (please note this server is monitored and moderated and we have
+1043134434 [51] - a 0 tolerance policy in place.  if you have a question about what you
+1043134434 [52] - are doing and whether it is acceptable, take the initiative and don't
+1043134434 [53] - do it in the first place.)
+1043134434 [54] - 
+1043134434 [55] - ------------------------------------
+1043134434 [56] - 
+1043134434 [57] End of /MOTD command.
+1043134434 [58] >>> sorcery sets mode: +v
+1043134434 [59] >>> sorcery (~sorcery@staff.irc.bootbox.net) has joined #sorcerer
+1043134434 [60] >>> topic for [1m#sorcerer[0m: The Official Channel for the Sorcerer Project - Ops are the core developers of the project - If you are interested in helping ask an op for details - also see http://software.bootbox.net - http://www.plutonic-records.com - and http://sorcererent.sf.net for information pertaining to Sorcerer
+1043134434 [61] >>> set by [1mChanServ!ChanServ@services.irc.bootbox.net[0m at [1m1043040041[0m
+1043134434 [62] NAMES #sorcerer: sorcery @nenolod @disasm +disasmlog @disasm_work @kittonian 
+1043134434 [63] End of /NAMES list.
+1043134434 [64] >>> sorcery (~sorcery@staff.irc.bootbox.net) has joined #sorcerer-bots
+1043134434 [65] >>> irc.bootbox.net/#sorcerer-bots sets mode: +nt
+1043134434 [66] NAMES #sorcerer-bots: @sorcery 
+1043134434 [67] End of /NAMES list.
+1043134434 [68] >>> sorcery (~sorcery@staff.irc.bootbox.net) has joined #bootbox
+1043134434 [69] >>> topic for [1m#bootbox[0m: Get In Touch With Your Inner Netchild - Windows, Macintosh, Linux - All Are Welcome - Come get support, pre-sales questions answered, and chat about BootBox.net - Ops Are BTBX Employees - FTP is back and running, Enjoy!
+1043134434 [70] >>> set by [1mChanServ!ChanServ@services.irc.bootbox.net[0m at [1m1042492360[0m
+1043134434 [71] NAMES #bootbox: sorcery @kittonian 
+1043134434 [72] End of /NAMES list.
+1043134455 [73] nenolod is addressing me
+1043134455 [74] Extras: <nenolod>  lart nenolod
+1043134455 [75] </#sorcerer> strangles nenolod with a doohicky mouse cord
+1043134455 [76] <nenolod/#sorcerer> sorcery, lart nenolod
+1043222206 [1] loaded param file ./conf/nenobot.config (55 items)
+1043222206 [2] Loaded help file nenobot.help
+1043222206 [3] created new db are -> ./sorcery-are
+1043222206 [4] FAILED to load conf/infobot-are.txt into are
+1043222206 [5] created new db is -> ./sorcery-is
+1043222206 [6] FAILED to load conf/infobot-is.txt into is
+1043222206 [7] created new db ignore -> ./sorcery-ignore
+1043222206 [8] FAILED to load conf/infobot-ignore.txt into ignore
+1043222206 [9] loading sane defines conf/sane-is.txt
+1043222206 [10] loaded conf/sane-is.txt into is (8/8 good items)
+1043222206 [11] loading sane defines conf/sane-are.txt
+1043222206 [12] loaded conf/sane-are.txt into are (6/6 good items)
+1043222206 [13] Adding *cthulhu!hastur@*unspeakable.net to ignore list (from sane).
+1043222206 [14] Adding *!*@*nan*direct.ca to ignore list (from sane).
+1043222206 [15] Adding *!*@200.38.211.* to ignore list (from sane).
+1043222206 [16] created new db plusplus -> ./sorcery-karma
+1043222206 [17] FAILED to load conf/infobot-plusplus.txt into plusplus
+1043222206 [18] created new db seen -> ./sorcery-seen
+1043222206 [19] FAILED to load conf/infobot-seen.txt into seen
+1043222206 [20] Parsing User File
+1043222206 [21] Parsing Channel File
+1043222206 [22] setup: 14 factoids; 8 IS; 6 ARE
+1043222206 [23] Connecting to port 6667 of server irc.bootbox.net (168.103.252.218)...
+1043222207 [24]  connected.
+1043222207 [25] !irc.bootbox.net! *** Looking up your hostname...
+1043222207 [26] !irc.bootbox.net! *** Found your hostname, cached
+1043222207 [27] !irc.bootbox.net! *** Checking Ident
+1043222207 [28] !irc.bootbox.net! *** No Ident response
+1043222207 [29] -[irc.bootbox.net]- *** Spoofing your IP. congrats.
+1043222207 [30] joined #sorcerer
+1043222207 [31] joined #sorcerer-bots
+1043222207 [32] joined #bootbox
+1043222207 [33] Your host is irc.bootbox.net[irc.bootbox.net/6667], running version 2.8/hybrid-6+ins7.6.2p2-REL(crc)(ssl)(hidei)(opme)(jb)
+1043222207 [34] -!irc.bootbox.net!- *** Your host is irc.bootbox.net[irc.bootbox.net/6667], running version 2.8/hybrid-6+ins7.6.2p2-REL(crc)(ssl)(hidei)(opme)(jb)
+1043222207 [35] This server was created Sat Dec 28 2002 at 16:19:36 EST
+1043222207 [36] There are 6 users and 9 invisible on 2 servers
+1043222207 [37] I have 9 clients and 1 servers
+1043222207 [38] Current local  users: 9  Max: 11
+1043222207 [39] Current global users: 15  Max: 17
+1043222207 [40] Highest connection count: 12 (11 clients) (296 since server was (re)started)
+1043222207 [41] - irc.bootbox.net Message of the Day - 
+1043222207 [42] - Welcome to the BootBox.net IRC Server.
+1043222207 [43] - 
+1043222207 [44] - This server was designed to provide chat solutions without lag,
+1043222207 [45] - annoyances, etc. to everyone dealing with BootBox.net and/or
+1043222207 [46] - the Pro Audio arena.
+1043222207 [47] - 
+1043222207 [48] - Please come in, have fun, be nice, and chat away!
+1043222207 [49] - 
+1043222207 [50] - (please note this server is monitored and moderated and we have
+1043222207 [51] - a 0 tolerance policy in place.  if you have a question about what you
+1043222207 [52] - are doing and whether it is acceptable, take the initiative and don't
+1043222207 [53] - do it in the first place.)
+1043222207 [54] - 
+1043222207 [55] - ------------------------------------
+1043222207 [56] - 
+1043222207 [57] End of /MOTD command.
+1043222207 [58] >>> sorcery sets mode: +v
+1043222208 [59] >>> sorcery (~sorcery@staff.irc.bootbox.net) has joined #sorcerer
+1043222208 [60] >>> topic for [1m#sorcerer[0m: The Official Channel for the Sorcerer Project - Ops are the core developers of the project - If you are interested in helping ask an op for details - also see http://software.bootbox.net - http://www.plutonic-records.com - and http://sorcererent.sf.net for information pertaining to Sorcerer
+1043222208 [61] >>> set by [1mChanServ!ChanServ@services.irc.bootbox.net[0m at [1m1043040041[0m
+1043222208 [62] NAMES #sorcerer: sorcery +disasmlog @disasm +laslow @nenolod @kittonian @disasm_work 
+1043222208 [63] End of /NAMES list.
+1043222208 [64] >>> sorcery (~sorcery@staff.irc.bootbox.net) has joined #sorcerer-bots
+1043222208 [65] NAMES #sorcerer-bots: sorcery laslow 
+1043222208 [66] End of /NAMES list.
+1043222208 [67] >>> sorcery (~sorcery@staff.irc.bootbox.net) has joined #bootbox
+1043222208 [68] >>> topic for [1m#bootbox[0m: Get In Touch With Your Inner Netchild - Windows, Macintosh, Linux - All Are Welcome - Come get support, pre-sales questions answered, and chat about BootBox.net - Ops Are BTBX Employees - FTP is back and running, Enjoy!
+1043222208 [69] >>> set by [1mChanServ!ChanServ@services.irc.bootbox.net[0m at [1m1042492360[0m
+1043222208 [70] NAMES #bootbox: sorcery +laslow @kittonian 
+1043222208 [71] End of /NAMES list.
+1043222859 [72] <disasm/#sorcerer> is it possible did TR finally go away
+1043223263 [73] <nenolod/#sorcerer> maybe
+1043223742 [74] <disasm/#sorcerer> see ya tomorrow
+1043223870 [75] <nenolod/#sorcerer> bye
+1043223872 [76] >>> [1mnenolod[0m has signed off IRC ([1mClient Exit: using sirc version 2.211+4KSIRC/1.2.1[0m)
+1043223887 [77] QUIT sorcery has quit IRC (Nenobot 0.5-PRE (http://people.kyrosoft.com/nenolod/nenobot))
+1043223887 [78] closed db plusplus
+1043223887 [79] closed db are
+1043223887 [80] closed db seen
+1043223887 [81] closed db ignore
+1043223887 [82] closed db is

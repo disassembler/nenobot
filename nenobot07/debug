@@ -1,0 +1,40 @@
+#!/usr/bin/perl
+
+my $no_weather;
+
+BEGIN {
+	$no_weather++ if ($@) ;
+	use Geo::WeatherNWS;
+}
+
+&weather("khao");
+
+sub weather {
+
+	my ($station) = $_[0];
+
+	my $weatherobj = Geo::WeatherNWS::new();
+
+	# Now we get the report for said station. Hee!
+
+	$weatherobj->getreporthttp($station);
+
+	# Now... make something useful of it.
+
+	if ($weatherobj->{winddirtext} eq "Calm") {
+
+	$line = "Weather for ".$station.": Conditions - $weatherobj->{conditionstext} with no wind. Temperature is at $weatherobj->{temperature_f} deg F. Barometric Pressure is $weatherobj->{pressure_inhg} inches of mercury.";
+
+	} else {
+
+	$line = "Weather for ".$station.": Conditions - $weatherobj->{conditionstext} with winds from $weatherobj->{winddir} at $weatherobj->{windspeedmph} MPH. Temperature is at $weatherobj->{temperature_f} deg F. Barometric Pressure is $weatherobj->{pressure_inhg} inches of mercury.";
+	
+	}
+
+	print "$line\n";
+
+}
+
+
+1;
+

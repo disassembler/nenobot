@@ -2,14 +2,13 @@
 
 # infobot -- copyright kevin lenzo (c) 1997 - infinity
 # nenobot -- copyright nenolod (c) 2002 - infinity
-# nenobot -- copyright nenobot / sorcerer project (c) 2003
 
 BEGIN {
   $VER_MAJ = 0;
-  $VER_MIN = 5;
-  $VER_MOD = 1;
+  $VER_MIN = 6;
+  $VER_MOD = 0;
 
-  $version = "nenobot [CVS]";
+  $version = "nenobot 0.6 - An IRC bot - http://nenobot.sourceforge.net/";
 
     $filesep = '/'; 
 

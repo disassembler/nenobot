@@ -1,4 +1,4 @@
-# $Id: DBM.pl,v 1.1 2003/01/23 05:44:34 nenolod Exp $
+# $Id: DBM.pl,v 1.1.1.2 2003/02/28 03:50:48 disasm_ Exp $
 #
 # infobot :: Kevin Lenzo  (c) 1997
 
